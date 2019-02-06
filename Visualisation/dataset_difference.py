@@ -17,11 +17,9 @@ data.set_index(pd.DatetimeIndex(data['arrival_time_at_last_Stop']), inplace=True
 
 data = data[data['mode'] == "bus"]
 
-print(data['next_stop'].value_counts())
+print(data['vehicle_id'].value_counts())
 
-plt.figure(figsize=(30, 15))
-sns.countplot(data['next_stop'])
-plt.xlabel("Bus Stops")
-plt.xticks(rotation=90)
+plt.figure(figsize=(12, 8))
+
 
 plt.show()

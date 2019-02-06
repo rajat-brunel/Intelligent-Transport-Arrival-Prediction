@@ -1,3 +1,5 @@
+----------------Tube Stops--------------------
+
 Moorgate Underground Station                    120
 Farringdon Underground Station                  117
 King's Cross St. Pancras Underground Station    116
@@ -20,6 +22,8 @@ Wembley Park Underground Station                 69
 Uxbridge Underground Station                     65
 Northwick Park Underground Station               53
 Neasden Underground Station                      23
+
+------------Bus Stops-----------------------
 
 Violet Avenue                   134
 Yiewsley Library                132
@@ -64,3 +68,117 @@ Vine Street                      48
 Bath Road / Newport Road         26
 Uxbridge High Street              9
 Uxbridge Station                  1
+
+---------Mode-------------
+
+bus     4142
+tube    2048
+
+------Time of Day-----------
+
+Afternoon    2696
+Night        1585
+Evening      1427
+Morning       482
+
+
+-------Peak------------
+
+no     4955
+yes    1235
+
+------Tube Vehicle-------
+
+432    170
+436    168
+433    165
+435    148
+437    107
+441     86
+442     86
+431     75
+451     72
+440     71
+447     71
+443     63
+434     56
+450     55
+444     54
+446     48
+404     47
+462     43
+412     34
+407     32
+423     32
+473     32
+403     31
+445     22
+430     22
+413     20
+421     19
+472     19
+401     19
+465     18
+426     18
+425     18
+424     18
+410     17
+406     17
+464     17
+405     16
+427     16
+463     14
+474     12
+
+
+-------Bus Vehicle---------
+
+LK08FLD    323
+YX10BFM    200
+LK08FND    186
+LK16DFA    181
+LK16DDZ    161
+LK16DEU    159
+LK16DDN    155
+YX10BFE    136
+LK08FKV    117
+LK16DDU    114
+YX10BFO    111
+LK08FLE    106
+YX10BFA    104
+LK16DDL    100
+YX10BFF     99
+LK08FLF     98
+SN09CFY     94
+YX10BFK     93
+LK08FKW     92
+LK16DDJ     91
+YX10BFL     90
+LK08FMX     75
+YX09FLB     67
+LK65EAM     65
+YX10BFN     65
+LK65EAP     65
+LK16DDY     64
+LK16DDX     63
+LK08FNE     62
+LK08FMY     61
+LK16DDO     60
+LK08FLW     58
+LK65EAA     57
+SN09CGG     52
+LK08FLZ     52
+LK16DFC     43
+LK58KHU     42
+SN09CGF     41
+SN09CFX     40
+SN09CGE     35
+YX58DUH     34
+YX58DUA     33
+LK65EAF     33
+SN09CGK     32
+LK08FMV     30
+LK09EKU     30
+LK08FLG     27
+LK08FLV     24
+LK58KHL     22
