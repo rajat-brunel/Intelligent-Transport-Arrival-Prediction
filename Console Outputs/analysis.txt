@@ -1,0 +1,66 @@
+Moorgate Underground Station                    120
+Farringdon Underground Station                  117
+King's Cross St. Pancras Underground Station    116
+Euston Square Underground Station               116
+Liverpool Street Underground Station            115
+Barbican Underground Station                    110
+Great Portland Street Underground Station       106
+Eastcote Underground Station                    104
+Ruislip Underground Station                     102
+Baker Street Underground Station                102
+Ruislip Manor Underground Station               101
+Rayners Lane Underground Station                 96
+Hillingdon Underground Station                   95
+Ickenham Underground Station                     94
+Finchley Road Underground Station                93
+West Harrow Underground Station                  91
+Harrow-on-the-Hill Underground Station           88
+Aldgate Underground Station                      72
+Wembley Park Underground Station                 69
+Uxbridge Underground Station                     65
+Northwick Park Underground Station               53
+Neasden Underground Station                      23
+
+Violet Avenue                   134
+Yiewsley Library                132
+Colham Road                     132
+Yiewsley High Street            132
+West Drayton Station            132
+Hillingdon Hospital             131
+Apple Tree Avenue               130
+Ferrers Avenue                  130
+Swan Road                       128
+Berberis Walk                   125
+Harmondsworth Lane              123
+Brunel University               122
+Harmondsworth Road              120
+Uxbridge High School            120
+The Green                       117
+Roseary Close                   115
+Skyport Drive                   115
+Laurel Lane Primary School      114
+Candover Close                  114
+Peel Way                        113
+Manor Waye                      112
+Huxley Close                    109
+St Laurence Church              109
+Pinglestone Close               109
+Mill Road                       107
+Compass Centre                  107
+St Andrew's Church              106
+Great Benty                     104
+Crown Walk                       99
+Magnolia Street                  71
+Otterfield Road                  67
+Milburn Drive                    67
+Sipson Way / Blunts Avenue       64
+Villier Street                   64
+Newport Road                     62
+Heathrow Central Bus Station     62
+Belmont Road                     56
+Civic Centre                     54
+Pield Heath                      50
+Vine Street                      48
+Bath Road / Newport Road         26
+Uxbridge High Street              9
+Uxbridge Station                  1

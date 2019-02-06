@@ -7,16 +7,16 @@ from random import randint
 
 cur_time = time.time()
 wakeup = cur_time + 3600
-station_name = ""
 cur_last_stop = "Origin"
 cur_arrival_last = "0"
 peak = "no"
+station_name = ""
 mode = "bus"
 time_of_day = "Morning"
 distance = 0
 v_id = "LK58KHL"
 r_no = randint(0, 1000)
-filename = r"C:\Users\rajat\PycharmProjects\untitled\Dataset\ " +v_id+"_"+time_of_day+"_"+peak+"_"+mode+str(r_no)+".csv"
+filename = r"C:\Users\rajat\PycharmProjects\untitled\Dataset\ " + v_id +"_"+time_of_day+"_"+peak+"_"+mode+str(r_no) + ".csv"
 
 while cur_time < wakeup:
     with urlopen("https://api.tfl.gov.uk/Vehicle/" + v_id + "/Arrivals?"
