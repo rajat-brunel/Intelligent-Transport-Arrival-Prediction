@@ -1,0 +1,123 @@
+,vehicle_id,origin,time_at_origin,next_stop,arrival_time_at_next_Stop,distance,peak,time_of_day,mode,temp,humidity,cloudCover,visibility,weekend,prediction_correct,status
+3521,SN09CFX,Uxbridge High School,2018-10-31 16:16:13+00:00,Brunel University,2018-10-31 16:18:01+00:00,590,yes,Afternoon,bus,11.36,0.67,0.19,10.01,no,yes,0.8
+3672,SN09CGE,Huxley Close,2018-10-31 17:57:46+00:00,Brunel University,2018-10-31 17:59:51+00:00,530,yes,Afternoon,bus,9.13,0.86,0.89,7.65,no,yes,1.0833333333333333
+4631,YX10BFN,Uxbridge High School,2018-11-01 15:24:23+00:00,Brunel University,2018-11-01 15:26:23+00:00,590,no,Afternoon,bus,9.23,0.9,0.8,9.96,no,yes,1.0
+4730,YX10BFO,Huxley Close,2018-11-01 19:25:57+00:00,Brunel University,2018-11-01 19:27:41+00:00,530,no,Evening,bus,6.47,0.91,0.33,10.01,no,yes,0.7333333333333333
+1291,LK08FLF,Uxbridge High School,2018-11-02 21:58:42+00:00,Brunel University,2018-11-02 22:00:24+00:00,590,no,Night,bus,4.71,0.8,0.75,9.29,no,yes,0.7
+1345,LK08FLF,St Laurence Church,2018-11-02 23:11:23+00:00,Brunel University,2018-11-02 23:12:47+00:00,685,no,Night,bus,4.21,0.86,0.79,9.45,no,yes,0.0
+2875,LK16DEU,Huxley Close,2018-11-03 16:14:17+00:00,Brunel University,2018-11-03 16:15:15+00:00,530,no,Afternoon,bus,11.56,0.66,0.22,10.01,yes,no,0.0
+2995,LK16DFA,Uxbridge High School,2018-11-03 16:36:10+00:00,Brunel University,2018-11-03 16:37:52+00:00,590,no,Afternoon,bus,11.18,0.69,0.22,10.01,yes,no,0.7
+3099,LK16DFA,Huxley Close,2018-11-03 17:57:15+00:00,Brunel University,2018-11-03 17:58:04+00:00,530,no,Afternoon,bus,9.94,0.76,0.73,10.01,no,yes,0.0
+2732,LK16DDZ,Huxley Close,2018-11-03 19:05:10+00:00,Brunel University,2018-11-03 19:06:01+00:00,530,no,Evening,bus,9.28,0.74,0.75,10.01,yes,yes,0.0
+4773,YX10BFO,Uxbridge High School,2018-11-07 20:58:40+00:00,Brunel University,2018-11-07 21:00:20+00:00,590,no,Night,bus,10.42,0.89,0.74,10.01,no,yes,0.6666666666666666
+4762,YX10BFO,Huxley Close,2018-11-07 22:13:18+00:00,Brunel University,2018-11-07 22:14:10+00:00,530,no,Night,bus,9.54,0.85,0.73,10.01,no,yes,0.0
+2843,LK16DDZ,Huxley Close,2018-11-08 13:33:58+00:00,Brunel University,2018-11-08 13:35:49+00:00,530,no,Night,bus,13.43,0.61,0.33,10.01,no,yes,0.85
+3889,YX10BFA,Uxbridge High School,2018-11-08 16:27:48+00:00,Brunel University,2018-11-08 16:29:46+00:00,590,yes,Afternoon,bus,11.32,0.68,0.89,10.01,no,yes,0.9666666666666667
+2571,LK16DDX,Uxbridge High School,2018-11-09 11:22:49+00:00,Brunel University,2018-11-09 11:24:24+00:00,590,no,Morning,bus,12.26,0.86,0.79,9.98,no,yes,0.5833333333333334
+2528,LK16DDU,St Laurence Church,2018-11-09 13:15:31+00:00,Brunel University,2018-11-09 13:17:58+00:00,685,no,Morning,bus,12.6,0.8,0.84,10.01,no,yes,1.45
+1893,LK08FNE,Uxbridge High School,2018-11-09 13:35:01+00:00,Brunel University,2018-11-09 13:36:44+00:00,590,no,Afternoon,bus,13.04,0.74,0.72,10.01,no,yes,0.7166666666666667
+1944,LK08FNE,St Laurence Church,2018-11-09 15:08:40+00:00,Brunel University,2018-11-09 15:10:56+00:00,685,no,Afternoon,bus,12.59,0.69,0.67,10.01,no,yes,0.2666666666666666
+2388,LK16DDO,Huxley Close,2018-11-09 16:11:18+00:00,Brunel University,2018-11-09 16:13:37+00:00,530,no,Afternoon,bus,11.96,0.72,0.57,10.01,no,yes,1.3166666666666667
+4490,YX10BFM,Uxbridge High School,2018-11-09 18:06:01+00:00,Brunel University,2018-11-09 18:07:56+00:00,590,yes,Evening,bus,11.93,0.7,0.46,9.99,no,no,0.9166666666666666
+3554,SN09CFY,Uxbridge High School,2018-11-09 19:13:46+00:00,Brunel University,2018-11-09 19:15:56+00:00,590,no,Evening,bus,11.69,0.78,0.73,9.88,no,yes,1.1666666666666667
+3606,SN09CFY,Huxley Close,2018-11-09 20:38:27+00:00,Brunel University,2018-11-09 20:39:10+00:00,530,no,Evening,bus,10.92,0.88,0.76,9.29,no,yes,0.0
+4114,YX10BFE,Uxbridge High School,2018-11-09 22:57:24+00:00,Brunel University,2018-11-09 22:59:04+00:00,590,no,Night,bus,11.02,0.93,0.89,5.97,no,yes,0.6666666666666666
+2813,LK16DDZ,Huxley Close,2018-11-09 23:58:34+00:00,Brunel University,2018-11-09 23:59:24+00:00,530,no,Night,bus,11.05,0.93,0.87,7.48,no,yes,0.0
+3144,LK16DFA,Uxbridge High School,2018-11-10 12:22:37+00:00,Brunel University,2018-11-10 12:24:34+00:00,590,no,Morning,bus,13.58,0.78,0.56,10.01,yes,no,0.95
+3788,SN09CGK,Uxbridge High School,2018-11-10 13:11:57+00:00,Brunel University,2018-11-10 13:13:39+00:00,590,no,Afternoon,bus,13.44,0.76,0.89,9.96,yes,yes,0.7
+1729,LK08FND,Huxley Close,2018-11-10 14:52:27+00:00,Brunel University,2018-11-10 14:53:41+00:00,530,no,Afternoon,bus,10.88,0.88,0.68,9.98,yes,yes,0.23333333333333334
+1393,LK08FLG,Huxley Close,2018-11-10 15:39:53+00:00,Brunel University,2018-11-10 15:40:59+00:00,530,no,Afternoon,bus,10.47,0.9,0.73,10.01,yes,yes,0.1
+3132,LK16DFA,St Laurence Church,2018-11-10 17:47:51+00:00,Brunel University,2018-11-10 17:49:45+00:00,685,no,Evening,bus,10.05,0.92,0.81,7.98,yes,yes,0.9
+943,LK08FLD,Huxley Close,2018-11-10 20:16:42+00:00,Brunel University,2018-11-10 20:17:42+00:00,530,no,Evening,bus,9.97,0.93,0.64,9.16,yes,yes,0.0
+1843,LK08FND,Huxley Close,2018-11-10 21:11:52+00:00,Brunel University,2018-11-10 21:12:44+00:00,530,no,Night,bus,9.99,0.94,0.74,9.35,yes,yes,0.0
+1857,LK08FND,Uxbridge High School,2018-11-10 21:36:46+00:00,Brunel University,2018-11-10 21:38:37+00:00,590,no,Night,bus,10.01,0.93,0.73,8.72,yes,yes,0.85
+4170,YX10BFF,Uxbridge High School,2018-11-10 21:56:00+00:00,Brunel University,2018-11-10 21:57:09+00:00,590,no,Night,bus,10.02,0.93,0.89,8.29,yes,no,0.15
+4620,YX10BFM,Huxley Close,2018-11-10 23:33:01+00:00,Brunel University,2018-11-10 23:33:39+00:00,530,no,Night,bus,9.97,0.94,0.75,8.29,yes,yes,0.0
+1882,LK08FND,Huxley Close,2018-11-11 00:26:22+00:00,Brunel University,2018-11-11 00:27:01+00:00,530,no,Night,bus,9.93,0.93,0.74,8.61,yes,yes,0.0
+852,LK08FLD,Huxley Close,2018-11-11 13:35:21+00:00,Brunel University,2018-11-11 13:36:35+00:00,530,no,Afternoon,bus,13.06,0.67,0.37,10.01,yes,yes,0.23333333333333334
+4257,YX10BFK,Huxley Close,2018-11-11 14:37:15+00:00,Brunel University,2018-11-11 14:38:03+00:00,535,no,Afternoon,bus,12.84,0.67,0.89,10.01,yes,yes,0.0
+1218,LK08FLE,Huxley Close,2018-11-11 15:13:14+00:00,Brunel University,2018-11-11 15:14:09+00:00,530,no,Afternoon,bus,12.59,0.68,0.21,10.01,yes,yes,0.0
+2559,LK16DDX,Huxley Close,2018-11-11 16:18:30+00:00,Brunel University,2018-11-11 16:19:45+00:00,530,no,Afternoon,bus,11.48,0.74,0.19,10.01,yes,no,0.25
+1174,LK08FLE,Huxley Close,2018-11-11 17:14:54+00:00,Brunel University,2018-11-11 17:15:37+00:00,530,no,Afternoon,bus,10.61,0.78,0.19,10.01,yes,yes,0.0
+1187,LK08FLE,Uxbridge High School,2018-11-11 17:51:31+00:00,Brunel University,2018-11-11 17:53:16+00:00,590,no,Afternoon,bus,10.23,0.8,0.19,10.01,yes,yes,0.75
+1112,LK08FLD,St Laurence Church,2018-11-11 21:05:13+00:00,Brunel University,2018-11-11 21:06:32+00:00,685,no,Night,bus,9.12,0.86,0.21,10.01,yes,yes,0.0
+3306,LK65EAA,Huxley Close,2018-11-11 21:47:49+00:00,Brunel University,2018-11-11 21:48:01+00:00,530,no,Night,bus,9.18,0.87,0.37,10.01,yes,yes,0.0
+3986,YX10BFA,Uxbridge High School,2018-11-11 22:58:24+00:00,Brunel University,2018-11-11 23:00:13+00:00,590,no,Night,bus,9.27,0.92,0.89,10.01,yes,yes,0.8166666666666667
+1065,LK08FLD,Uxbridge High School,2018-11-11 23:20:06+00:00,Brunel University,2018-11-11 23:22:12+00:00,590,no,Night,bus,9.53,0.9,0.74,10.01,yes,no,1.1
+3318,LK65EAA,Uxbridge High School,2018-11-11 23:57:05+00:00,Brunel University,2018-11-11 23:58:17+00:00,590,no,Night,bus,9.92,0.88,0.55,10.01,yes,yes,0.2
+3214,LK16DFC,St Laurence Church,2018-11-12 09:21:12+00:00,Brunel University,2018-11-12 09:23:39+00:00,885,no,Morning,bus,10.72,0.91,0.37,10.01,no,no,0.45
+3411,LK65EAM,Uxbridge High School,2018-11-12 09:46:53+00:00,Brunel University,2018-11-12 09:48:01+00:00,590,no,Morning,bus,10.9,0.86,0.35,10.01,no,no,0.13333333333333333
+2918,LK16DEU,Uxbridge High School,2018-11-12 10:35:31+00:00,Brunel University,2018-11-12 10:37:20+00:00,590,no,Morning,bus,12.09,0.81,0.31,10.01,no,no,0.8166666666666667
+4080,YX10BFE,Uxbridge High School,2018-11-12 11:25:04+00:00,Brunel University,2018-11-12 11:26:38+00:00,590,no,Morning,bus,13.28,0.77,0.89,10.01,no,no,0.5666666666666667
+2162,LK16DDL,Uxbridge High School,2018-11-12 12:12:21+00:00,Brunel University,2018-11-12 12:14:18+00:00,590,no,Afternoon,bus,13.89,0.75,0.46,10.01,no,yes,0.95
+2127,LK16DDL,Uxbridge High School,2018-11-12 14:20:28+00:00,Brunel University,2018-11-12 14:22:49+00:00,590,no,Afternoon,bus,13.24,0.73,0.34,10.01,no,yes,1.35
+1771,LK08FND,Uxbridge High School,2018-11-12 15:13:28+00:00,Brunel University,2018-11-12 15:14:56+00:00,590,no,Afternoon,bus,12.6,0.74,0.33,10.01,no,no,0.4666666666666667
+3638,SN09CFY,Huxley Close,2018-11-12 18:57:05+00:00,Brunel University,2018-11-12 18:59:46+00:00,530,yes,Evening,bus,10.89,0.82,0.23,10.01,no,yes,1.6833333333333333
+4206,YX10BFF,Uxbridge High School,2018-11-12 20:58:11+00:00,Brunel University,2018-11-12 21:00:12+00:00,590,yes,Night,bus,9.93,0.87,0.89,10.01,no,yes,1.0166666666666666
+2228,LK16DDN,Uxbridge High School,2018-11-13 13:34:39+00:00,Brunel University,2018-11-13 13:36:47+00:00,590,yes,Afternoon,bus,13.04,0.67,0.4,10.01,no,no,1.1333333333333333
+3842,YX09FLB,Huxley Close,2018-11-13 16:41:57+00:00,Brunel University,2018-11-13 16:43:47+00:00,530,yes,Afternoon,bus,11.22,0.73,0.89,10.01,no,yes,0.8333333333333334
+3854,YX09FLB,Uxbridge High School,2018-11-13 17:15:50+00:00,Brunel University,2018-11-13 17:17:43+00:00,590,no,Evening,bus,10.86,0.76,0.89,10.01,no,yes,0.8833333333333333
+3756,SN09CGG,Uxbridge High School,2018-11-13 18:15:42+00:00,Brunel University,2018-11-13 18:17:30+00:00,590,yes,Evening,bus,10.81,0.81,0.89,10.01,no,yes,0.8
+4825,YX58DUA,Uxbridge High School,2018-11-13 19:13:04+00:00,Brunel University,2018-11-13 19:14:50+00:00,590,no,Evening,bus,10.74,0.83,0.55,10.01,no,no,0.7666666666666667
+831,LK08FLD,Huxley Close,2018-11-14 16:06:09+00:00,Brunel University,2018-11-14 16:08:07+00:00,530,yes,Afternoon,bus,12.61,0.73,0.67,10.01,no,yes,0.9666666666666667
+1483,LK08FLZ,Uxbridge High School,2018-11-14 18:38:36+00:00,Brunel University,2018-11-14 18:39:52+00:00,590,yes,Evening,bus,10.07,0.88,0.24,10.01,no,no,0.26666666666666666
+1534,LK08FMV,Uxbridge High School,2018-11-14 19:28:27+00:00,Brunel University,2018-11-14 19:30:26+00:00,590,no,Evening,bus,10.04,0.89,0.5,9.87,no,yes,0.9833333333333333
+1567,LK08FMX,Uxbridge High School,2018-11-14 20:57:46+00:00,Brunel University,2018-11-14 20:59:20+00:00,590,no,Night,bus,9.58,0.93,0.33,7.87,no,yes,0.5666666666666667
+1616,LK08FMX,Huxley Close,2018-11-14 22:14:10+00:00,Brunel University,2018-11-14 22:15:05+00:00,530,no,Night,bus,9.17,0.94,0.59,5.1,no,yes,0.0
+1630,LK08FMX,Uxbridge High School,2018-11-14 22:35:10+00:00,Brunel University,2018-11-14 22:37:04+00:00,590,no,Night,bus,9.58,0.94,0.64,4.41,no,yes,0.9
+2622,LK16DDY,Huxley Close,2018-11-14 23:24:36+00:00,Brunel University,2018-11-14 23:25:26+00:00,530,no,Night,bus,10.09,0.96,0.81,3.89,no,yes,0.0
+2661,LK16DDY,Uxbridge High School,2018-11-14 23:57:20+00:00,Brunel University,2018-11-14 23:58:53+00:00,590,no,Night,bus,10.15,0.98,0.96,4.18,no,yes,0.55
+3484,LK65EAP,Uxbridge High School,2018-11-15 10:20:54+00:00,Brunel University,2018-11-15 10:22:43+00:00,590,no,Morning,bus,13.26,0.88,0.87,9.53,no,yes,0.8166666666666667
+1247,LK08FLE,St Laurence Church,2018-11-15 11:33:38+00:00,Brunel University,2018-11-15 11:35:47+00:00,685,no,Morning,bus,13.79,0.88,0.92,8.75,no,yes,0.15
+3445,LK65EAP,Uxbridge High School,2018-11-15 12:20:58+00:00,Brunel University,2018-11-15 12:22:45+00:00,590,no,Afternoon,bus,13.91,0.88,0.95,8.26,no,yes,0.7833333333333333
+3380,LK65EAM,Uxbridge High School,2018-11-15 15:36:48+00:00,Brunel University,2018-11-15 15:38:59+00:00,590,no,Afternoon,bus,13.91,0.88,0.7,8.42,no,yes,1.1833333333333333
+3700,SN09CGF,St Laurence Church,2018-11-15 16:51:55+00:00,Brunel University,2018-11-15 16:54:32+00:00,685,yes,Afternoon,bus,13.12,0.92,0.89,8.03,no,yes,0.6166666666666667
+3712,SN09CGF,Uxbridge High School,2018-11-15 17:28:31+00:00,Brunel University,2018-11-15 17:30:14+00:00,590,yes,Evening,bus,12.87,0.92,0.89,7.48,no,yes,0.7166666666666667
+3942,YX10BFA,St Laurence Church,2018-11-15 18:30:39+00:00,Brunel University,2018-11-15 18:32:58+00:00,685,yes,Evening,bus,12.4,0.92,0.89,6.2,no,yes,0.3166666666666667
+1955,LK09EKU,Uxbridge High School,2018-11-15 18:55:14+00:00,Brunel University,2018-11-15 18:55:28+00:00,590,yes,Evening,bus,12.11,0.93,0.87,5.57,no,yes,0.0
+2085,LK16DDJ,Huxley Close,2018-11-15 21:51:35+00:00,Brunel University,2018-11-15 21:52:53+00:00,530,no,Night,bus,11.43,0.96,1.0,3.46,no,yes,0.3
+1256,LK08FLF,Uxbridge High School,2018-11-16 12:35:06+00:00,Brunel University,2018-11-16 12:36:12+00:00,590,no,Afternoon,bus,10.36,0.97,0.96,4.92,no,yes,0.1
+2114,LK16DDL,Huxley Close,2018-11-16 13:50:34+00:00,Brunel University,2018-11-16 13:52:03+00:00,530,no,Afternoon,bus,10.05,0.96,0.93,4.55,no,no,0.48333333333333334
+2021,LK16DDJ,Huxley Close,2018-11-17 17:47:30+00:00,Brunel University,2018-11-17 17:48:36+00:00,530,no,Evening,bus,4.87,0.89,0.7,10.01,yes,yes,0.1
+911,LK08FLD,Huxley Close,2018-11-17 19:31:27+00:00,Brunel University,2018-11-17 19:32:36+00:00,530,no,Evening,bus,11.9,0.94,0.84,7.54,yes,no,0.15
+586,LK08FKV,Uxbridge High School,2018-11-17 19:57:30+00:00,Brunel University,2018-11-17 19:59:10+00:00,590,no,Evening,bus,9.36,0.82,0.54,10.01,yes,yes,0.6666666666666666
+3060,LK16DFA,Huxley Close,2018-11-18 17:31:56+00:00,Brunel University,2018-11-18 17:32:58+00:00,530,no,Afternoon,bus,11.71,0.84,0.43,10.01,yes,yes,0.03333333333333333
+3073,LK16DFA,Uxbridge High School,2018-11-18 18:15:06+00:00,Brunel University,2018-11-18 18:17:40+00:00,590,no,Afternoon,bus,10.8,0.83,0.46,10.01,yes,yes,1.5666666666666667
+776,LK08FKW,Uxbridge High School,2018-11-18 18:35:30+00:00,Brunel University,2018-11-18 18:35:59+00:00,590,no,Evening,bus,8.47,0.91,0.83,8.14,yes,yes,0.0
+4456,YX10BFM,Uxbridge High School,2018-11-18 18:51:45+00:00,Brunel University,2018-11-18 18:53:58+00:00,590,no,Evening,bus,10.73,0.89,0.7,10.01,yes,yes,1.2166666666666666
+4556,YX10BFM,Uxbridge High School,2018-11-18 20:38:06+00:00,Brunel University,2018-11-18 20:39:45+00:00,590,no,Night,bus,7.75,0.92,0.89,10.01,yes,yes,0.65
+4545,YX10BFM,Huxley Close,2018-11-18 21:52:25+00:00,Brunel University,2018-11-18 21:53:47+00:00,530,no,Night,bus,7.32,0.9,0.79,10.01,yes,yes,0.36666666666666664
+4685,YX10BFN,St Laurence Church,2018-11-19 11:47:56+00:00,Brunel University,2018-11-19 11:50:01+00:00,685,no,Morning,bus,7.79,0.76,0.72,10.01,no,yes,0.0833333333333333
+5174,LK16DEU,Huxley Close,2018-11-19 14:17:12+00:00,Brunel University,2018-11-19 14:19:15+00:00,530,no,Afternoon,bus,8.0,0.72,0.47,10.01,no,yes,1.05
+2194,LK16DDN,Uxbridge High School,2018-11-19 15:29:23+00:00,Brunel University,2018-11-19 15:30:45+00:00,590,no,Afternoon,bus,7.39,0.74,0.38,10.01,no,no,0.36666666666666664
+4266,YX10BFK,Uxbridge High School,2018-11-19 16:28:54+00:00,Brunel University,2018-11-19 16:30:44+00:00,590,yes,Afternoon,bus,6.8,0.77,0.89,10.01,no,yes,0.8333333333333334
+1006,LK08FLD,Huxley Close,2018-11-19 17:55:13+00:00,Brunel University,2018-11-19 17:57:23+00:00,530,yes,Evening,bus,5.93,0.81,0.56,9.8,no,no,1.1666666666666667
+1013,LK08FLD,Uxbridge High School,2018-11-19 18:29:45+00:00,Brunel University,2018-11-19 18:31:14+00:00,590,yes,Evening,bus,5.49,0.84,0.63,9.91,no,no,0.48333333333333334
+975,LK08FLD,St Laurence Church,2018-11-19 19:56:03+00:00,Brunel University,2018-11-19 19:58:07+00:00,685,no,Evening,bus,5.01,0.88,0.7,9.85,no,yes,0.0666666666666667
+2908,LK16DEU,Huxley Close,2018-11-21 12:41:57+00:00,Brunel University,2018-11-21 12:43:28+00:00,530,no,Afternoon,bus,7.37,0.7,0.44,10.01,no,no,0.5166666666666667
+1741,LK08FND,Uxbridge High School,2018-11-21 13:35:45+00:00,Brunel University,2018-11-21 13:37:21+00:00,590,no,Afternoon,bus,7.13,0.67,0.46,10.01,no,no,0.6
+1810,LK08FND,St Laurence Church,2018-11-21 15:05:08+00:00,Brunel University,2018-11-21 15:07:13+00:00,685,no,Afternoon,bus,6.48,0.66,0.64,10.01,no,yes,0.0833333333333333
+3723,SN09CGG,Uxbridge High School,2018-11-21 16:15:33+00:00,Brunel University,2018-11-21 16:20:28+00:00,590,yes,Afternoon,bus,5.39,0.71,0.89,10.01,no,yes,3.9166666666666665
+2453,LK16DDU,Uxbridge High School,2018-11-21 20:41:35+00:00,Brunel University,2018-11-21 20:42:51+00:00,590,no,Night,bus,2.07,0.87,0.64,8.11,no,no,0.26666666666666666
+2260,LK16DDN,Uxbridge High School,2018-11-22 12:00:39+00:00,Brunel University,2018-11-22 12:02:23+00:00,590,no,Morning,bus,4.24,0.9,0.69,3.91,no,yes,0.7333333333333333
+2756,LK16DDZ,Uxbridge High School,2018-11-22 14:22:11+00:00,Brunel University,2018-11-22 14:24:19+00:00,590,no,Afternoon,bus,5.64,0.88,0.82,4.3,no,yes,1.1333333333333333
+715,LK08FKW,St Laurence Church,2018-11-22 16:17:39+00:00,Brunel University,2018-11-22 16:19:46+00:00,685,no,Afternoon,bus,4.73,0.93,0.83,3.73,no,yes,0.1166666666666667
+3345,LK65EAF,Uxbridge High School,2018-11-23 12:13:02+00:00,Brunel University,2018-11-23 12:14:51+00:00,590,no,Afternoon,bus,7.77,0.93,0.98,3.89,no,yes,0.8166666666666667
+744,LK08FKW,Uxbridge High School,2018-11-23 13:13:43+00:00,Brunel University,2018-11-23 13:15:39+00:00,590,no,Afternoon,bus,7.9,0.94,0.96,4.25,no,yes,0.9333333333333333
+1141,LK08FLD,Huxley Close,2018-11-23 20:53:40+00:00,Brunel University,2018-11-23 20:54:11+00:00,530,no,Night,bus,7.66,0.93,0.86,4.94,no,yes,0.0
+4409,YX10BFL,Huxley Close,2018-11-23 21:51:32+00:00,Brunel University,2018-11-23 21:52:49+00:00,530,no,Night,bus,7.74,0.92,0.89,4.67,no,no,0.2833333333333333
+4423,YX10BFL,Uxbridge High School,2018-11-23 22:17:21+00:00,Brunel University,2018-11-23 22:19:01+00:00,590,no,Night,bus,7.78,0.92,0.89,4.6,no,yes,0.6666666666666666
+4043,YX10BFE,Huxley Close,2018-11-24 13:03:05+00:00,Brunel University,2018-11-24 13:04:46+00:00,530,no,Afternoon,bus,8.71,0.85,0.89,7.82,yes,yes,0.6833333333333333
+4012,YX10BFE,Huxley Close,2018-11-24 16:58:46+00:00,Brunel University,2018-11-24 17:00:08+00:00,530,no,Afternoon,bus,7.96,0.82,0.89,9.37,yes,yes,0.36666666666666664
+2353,LK16DDN,Huxley Close,2018-11-24 21:06:49+00:00,Brunel University,2018-11-24 21:08:10+00:00,530,no,Night,bus,7.69,0.79,0.98,9.61,yes,no,0.35
+2291,LK16DDN,Uxbridge High School,2018-11-24 21:35:21+00:00,Brunel University,2018-11-24 21:37:11+00:00,590,no,Night,bus,7.67,0.79,0.98,9.43,yes,yes,0.8333333333333334
+4858,YX58DUH,Uxbridge High School,2018-11-25 16:52:58+00:00,Brunel University,2018-11-25 16:54:27+00:00,590,no,Afternoon,bus,7.19,0.78,0.86,10.01,yes,no,0.48333333333333334
+4366,YX10BFL,Huxley Close,2018-11-25 20:49:42+00:00,Brunel University,2018-11-25 20:50:47+00:00,530,no,Night,bus,6.2,0.84,0.89,10.01,yes,yes,0.08333333333333333
+670,LK08FKV,Uxbridge High School,2018-11-26 12:34:47+00:00,Brunel University,2018-11-26 12:35:53+00:00,590,no,Afternoon,bus,7.5,0.79,0.75,10.01,no,no,0.1
+1664,LK08FMY,Huxley Close,2018-11-26 17:29:40+00:00,Brunel University,2018-11-26 17:31:33+00:00,530,yes,Evening,bus,6.62,0.84,0.75,10.01,no,no,0.8833333333333333
+1415,LK08FLV,St Laurence Church,2018-11-26 21:33:01+00:00,Brunel University,2018-11-26 21:34:38+00:00,985,no,Night,bus,4.08,0.93,0.54,7.77,no,yes,0.0
+1461,LK08FLW,Huxley Close,2018-11-27 12:08:00+00:00,Brunel University,2018-11-27 12:09:10+00:00,530,no,Afternoon,bus,5.38,0.92,0.63,7.9,no,no,0.16666666666666666
+1475,LK08FLW,Uxbridge High School,2018-11-27 12:39:52+00:00,Brunel University,2018-11-27 12:40:47+00:00,590,no,Afternoon,bus,5.83,0.93,0.68,6.81,no,yes,0.0
+879,LK08FLD,Huxley Close,2018-11-27 17:03:43+00:00,Brunel University,2018-11-27 17:05:53+00:00,530,yes,Evening,bus,8.43,0.97,0.91,5.99,no,yes,1.1666666666666667
+1444,LK08FLW,St Laurence Church,2018-11-27 18:30:08+00:00,Brunel University,2018-11-27 18:32:21+00:00,685,yes,Evening,bus,9.53,0.93,0.87,7.92,no,yes,0.2166666666666666
+3235,LK58KHL,Huxley Close,2018-11-30 12:20:11+00:00,Brunel University,2018-11-30 12:22:08+00:00,530,no,Afternoon,bus,11.04,0.73,0.27,10.01,no,no,0.95
