@@ -5,9 +5,11 @@ from numpy import log
 from statsmodels.tsa.stattools import acf, pacf
 from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.tsa.arima_model import ARIMA
+import statsmodels.api as sm
 import matplotlib.pyplot as plt
 import seaborn as sns
 from statsmodels.tsa.stattools import adfuller
+from sklearn.metrics import mean_squared_error
 
 sns.set()
 
@@ -83,7 +85,7 @@ def test_stationarity(timeseries):
     std = plt.plot(movingSTD, color='black', label='Rolling Std')
     plt.legend(loc='best')
     plt.title('Rolling Mean & Standard Deviation')
-    plt.show(block=False)
+    #plt.show(block=False)
 
     # Perform Dickey–Fuller test:
     print('Results of Dickey Fuller Test:')
@@ -98,7 +100,8 @@ test_stationarity(datasetLogScaleMinusMovingAverage)
 
 plt.plot(data_shift)
 plt.xticks(rotation=90)
-plt.show()
+#plt.show()
+plt.close()
 
 data_shift.dropna(inplace=True)
 test_stationarity(data_shift)
@@ -125,4 +128,13 @@ plt.axhline(y=1.96 / np.sqrt(len(data_shift)), linestyle='--', color='gray')
 plt.title('Partial Autocorrelation Function')
 
 plt.tight_layout()
+# plt.show()
+plt.close()
+
+model = ARIMA(data_shift, order=(1, 0, 1))
+results_AR = model.fit(disp=-1)
+plt.plot(data_shift)
+plt.plot(results_AR.fittedvalues, color='red')
 plt.show()
+
+
