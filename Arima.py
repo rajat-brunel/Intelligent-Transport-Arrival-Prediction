@@ -35,7 +35,7 @@ plt.plot(data)
 # plt.show()
 
 # Determine rolling statistics
-rol_mean = data.rolling(window=4).mean() #window size 12 denotes 12 months, giving rolling mean at yearly level
+rol_mean = data.rolling(window=4).mean()
 rol_std = data.rolling(window=4).std()
 
 # print(rol_mean, rol_std)
@@ -72,6 +72,7 @@ datasetLogScaleMinusMovingAverage = data - movingAverage
 #Remove NAN values
 datasetLogScaleMinusMovingAverage.dropna(inplace=True)
 #print(datasetLogScaleMinusMovingAverage.head(10))
+
 
 # Perform the Dickey Fuller Test
 def test_stationarity(timeseries):
@@ -131,10 +132,27 @@ plt.tight_layout()
 # plt.show()
 plt.close()
 
-model = ARIMA(data_shift, order=(1, 0, 1))
-results_AR = model.fit(disp=-1)
-plt.plot(data_shift)
-plt.plot(results_AR.fittedvalues, color='red')
+X = data_shift.values
+size = int(len(X) * 0.5)
+train, test = X[0:size], X[size:len(X)]
+history = [x for x in train]
+predictions = list()
+print(size)
+
+for t in range(len(test)):
+    model = ARIMA(history, order=(1, 0, 1))
+    model_fit = model.fit(disp=0)
+    output = model_fit.forecast()
+    yhat = output[0]
+    predictions.append(yhat)
+    obs = test[t]
+    history.append(obs)
+    print('predicted=%f, expected=%f' % (yhat, obs))
+error = mean_squared_error(test, predictions)
+print('Test MSE: %.3f' % error)
+
+# plot
+plt.plot(test)
+plt.plot(predictions, color='red')
+plt.legend(['test','prediction'])
 plt.show()
-
-

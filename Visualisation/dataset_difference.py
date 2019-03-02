@@ -23,9 +23,6 @@ data = data[data['next_stop'] == "Brunel University"]
 
 data['status'] = ((data['diff']) - 60.0)/60.0
 
-data.status = [0 if each < 0
-                  else each for each in data.status]
-
 
 data.drop('diff', axis=1, inplace=True)
 
