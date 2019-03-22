@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 sns.set()
 
 data = pd.read_csv('../Dataset/dataset.csv', parse_dates=True)
@@ -20,9 +19,7 @@ data.sort_values(by='time_at_origin', inplace=True)
 
 data = data[data['next_stop'] == "Brunel University"]
 
-
 data['status'] = ((data['diff']) - 60.0)/60.0
-
 
 data.drop('diff', axis=1, inplace=True)
 
@@ -34,7 +31,6 @@ data.drop('diff', axis=1, inplace=True)
 #plt.ylabel("Mean Temperature")
 #plt.show()
 
-print(data)
+print(data.status)
 
-data.to_csv("data_brunel.csv")
 

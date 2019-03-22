@@ -42,7 +42,6 @@ while cur_time < wakeup:
                     else:
                         arrival_next = item['expectedArrival']
                         print("prediction changed!")
-                        print(vehicle_id, cur_last_stop, cur_arrival_last, next_stop, arrival_next, distance, peak, time_of_day, mode)
                         csv_writer.writerow({'vehicle_id': vehicle_id, 'last_stop': cur_last_stop,
                                              'arrival_time_at_last_Stop': cur_arrival_last,
                                              'next_stop': next_stop,
@@ -74,7 +73,7 @@ while cur_time < wakeup:
                     cur_last_stop = next_stop
                     cur_arrival_last = arrival_next
                 break
-    time.sleep(10)
+    time.sleep(20)
     cur_time = time.time()
 
 

@@ -12,7 +12,7 @@ data["humidity"] = None
 data["cloudCover"] = None
 data["visibility"] = None
 
-for i in range(582, 638, 1):
+for i in range(0, 999, 1):
     time = str(data.iat[i, 0])
     lat = str(data.iat[i, 1])
     long = str(data.iat[i, 2])

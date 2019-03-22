@@ -1,11 +1,7 @@
 import pandas as pd
-from datetime import datetime
 import numpy as np
-from numpy import log
 from statsmodels.tsa.stattools import acf, pacf
-from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.tsa.arima_model import ARIMA
-import statsmodels.api as sm
 import matplotlib.pyplot as plt
 import seaborn as sns
 from statsmodels.tsa.stattools import adfuller
@@ -32,46 +28,29 @@ plt.figure(figsize=(16, 12))
 plt.xlabel('Date')
 plt.ylabel('Delay Status')
 plt.plot(data)
-# plt.show()
+#plt.show()
+plt.close()
 
 # Determine rolling statistics
 rol_mean = data.rolling(window=4).mean()
 rol_std = data.rolling(window=4).std()
 
-# print(rol_mean, rol_std)
+print(rol_mean, rol_std)
 
 orig = plt.plot(data, color='blue', label='Original')
 mean = plt.plot(rol_mean, color='red', label='Rolling Mean')
 std = plt.plot(rol_std, color='black', label='Rolling Std')
 plt.legend(loc='best')
+plt.xticks(rotation=90)
 plt.title('Rolling Mean & Standard Deviation')
-# plt.show(block=False)
+plt.show(block=False)
 plt.close()
 
 # Estimating trend
-data_shift = data - data.shift()
+data_shift = data - data.shift(1)
 plt.plot(data)
 # plt.show(block=False)
 plt.close()
-
-
-# The below transformation is required to make series stationary
-movingAverage = data.rolling(window=4).mean()
-movingSTD = data.rolling(window=4).std()
-plt.plot(data)
-plt.plot(movingAverage, color='red')
-plt.plot(movingSTD, color='green')
-plt.xticks(rotation=90)
-# plt.show()
-plt.close()
-
-
-datasetLogScaleMinusMovingAverage = data - movingAverage
-#print(datasetLogScaleMinusMovingAverage.head(12))
-
-#Remove NAN values
-datasetLogScaleMinusMovingAverage.dropna(inplace=True)
-#print(datasetLogScaleMinusMovingAverage.head(10))
 
 
 # Perform the Dickey Fuller Test
@@ -91,18 +70,12 @@ def test_stationarity(timeseries):
     # Perform Dickey–Fuller test:
     print('Results of Dickey Fuller Test:')
     dftest = adfuller(timeseries['status'], autolag='AIC')
-    dfoutput = pd.Series(dftest[0:4], index=['Test Statistic', 'p-value', '#Lags Used', 'Number of Observations Used'])
+    dfoutput = pd.Series(dftest[0:4], index=['Test Statistic', 'p-value',
+                                             '#Lags Used', 'Number of Observations Used'])
     for key, value in dftest[4].items():
         dfoutput['Critical Value (%s)' % key] = value
     print(dfoutput)
 
-
-test_stationarity(datasetLogScaleMinusMovingAverage)
-
-plt.plot(data_shift)
-plt.xticks(rotation=90)
-#plt.show()
-plt.close()
 
 data_shift.dropna(inplace=True)
 test_stationarity(data_shift)
@@ -112,7 +85,7 @@ test_stationarity(data_shift)
 lag_acf = acf(data_shift, nlags=10)
 lag_pacf = pacf(data_shift, nlags=10, method='ols')
 
-# Plot ACF:
+# Plot ACF:s
 plt.subplot(121)
 plt.plot(lag_acf)
 plt.axhline(y=0, linestyle='--', color='gray')
@@ -132,12 +105,15 @@ plt.tight_layout()
 # plt.show()
 plt.close()
 
+# Test & Train split
 X = data_shift.values
-size = int(len(X) * 0.5)
+size = int(len(X) * 0.75)
 train, test = X[0:size], X[size:len(X)]
 history = [x for x in train]
 predictions = list()
 print(size)
+
+# ARIMA Model for Forecast
 
 for t in range(len(test)):
     model = ARIMA(history, order=(1, 0, 1))
@@ -151,8 +127,11 @@ for t in range(len(test)):
 error = mean_squared_error(test, predictions)
 print('Test MSE: %.3f' % error)
 
+rmse = np.sqrt(mean_squared_error(test, predictions))
+print('Test RMSE: %.3f' % rmse)
+
 # plot
 plt.plot(test)
 plt.plot(predictions, color='red')
-plt.legend(['test','prediction'])
+plt.legend(['test', 'prediction'])
 plt.show()
