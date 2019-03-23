@@ -1,0 +1,133 @@
+,vehicle_id,origin,time_at_origin,next_stop,arrival_time_at_next_Stop,distance,peak,time_of_day,mode,temp,humidity,cloudCover,visibility,weekend,prediction_correct,status
+3532,SN09CFX,Yiewsley High Street,2018-10-31 16:36:11+00:00,West Drayton Station,2018-10-31 16:38:23+00:00,420,yes,Afternoon,bus,10.92,0.68,0.19,10.01,no,yes,0.2
+3661,SN09CGE,Ferrers Avenue,2018-10-31 17:37:05+00:00,West Drayton Station,2018-10-31 17:38:36+00:00,405,yes,Afternoon,bus,8.91,0.86,0.9,7.6,no,yes,-0.48333333333333334
+4643,YX10BFN,Yiewsley High Street,2018-11-01 15:48:59+00:00,West Drayton Station,2018-11-01 15:51:09+00:00,420,no,Afternoon,bus,9.2,0.89,0.76,9.99,no,no,0.16666666666666666
+4720,YX10BFO,Ferrers Avenue,2018-11-01 19:10:22+00:00,West Drayton Station,2018-11-01 19:11:34+00:00,405,no,Evening,bus,6.82,0.91,0.28,10.01,no,yes,-0.8
+1303,LK08FLF,Yiewsley High Street,2018-11-02 22:12:42+00:00,West Drayton Station,2018-11-02 22:14:18+00:00,420,no,Night,bus,4.58,0.81,0.76,9.27,no,no,-0.4
+1335,LK08FLF,Ferrers Avenue,2018-11-02 22:59:27+00:00,West Drayton Station,2018-11-02 23:00:18+00:00,405,no,Night,bus,4.15,0.85,0.78,9.29,no,yes,-1.15
+2864,LK16DEU,Ferrers Avenue,2018-11-03 15:55:42+00:00,West Drayton Station,2018-11-03 15:57:28+00:00,405,no,Afternoon,bus,11.88,0.64,0.24,10.01,yes,yes,-0.23333333333333334
+3006,LK16DFA,Yiewsley High Street,2018-11-03 16:52:14+00:00,West Drayton Station,2018-11-03 16:53:57+00:00,420,no,Afternoon,bus,10.94,0.7,0.22,10.01,yes,yes,-0.2833333333333333
+3089,LK16DFA,Ferrers Avenue,2018-11-03 17:39:00+00:00,West Drayton Station,2018-11-03 17:40:21+00:00,405,no,Afternoon,bus,10.23,0.74,0.56,10.01,no,yes,-0.65
+2721,LK16DDZ,Ferrers Avenue,2018-11-03 18:49:53+00:00,West Drayton Station,2018-11-03 18:51:22+00:00,405,no,Evening,bus,9.42,0.74,0.75,10.01,yes,yes,-0.5166666666666667
+4784,YX10BFO,Yiewsley High Street,2018-11-07 21:14:41+00:00,West Drayton Station,2018-11-07 21:15:42+00:00,420,no,Night,bus,10.35,0.88,0.75,10.01,no,yes,-0.9833333333333333
+4751,YX10BFO,Ferrers Avenue,2018-11-07 21:59:50+00:00,West Drayton Station,2018-11-07 22:01:06+00:00,405,no,Night,bus,9.92,0.85,0.75,10.01,no,yes,-0.7333333333333333
+2833,LK16DDZ,Ferrers Avenue,2018-11-08 13:13:22+00:00,West Drayton Station,2018-11-08 13:14:59+00:00,405,no,Night,bus,13.78,0.61,0.33,10.01,no,no,-0.38333333333333336
+3250,LK58KHU,Yiewsley High Street,2018-11-08 14:04:49+00:00,West Drayton Station,2018-11-08 14:06:44+00:00,420,no,Afternoon,bus,13.04,0.62,0.33,10.01,no,yes,-0.08333333333333333
+3900,YX10BFA,Yiewsley High Street,2018-11-08 16:47:30+00:00,West Drayton Station,2018-11-08 16:51:17+00:00,420,yes,Afternoon,bus,11.02,0.7,0.89,10.01,no,no,1.7833333333333334
+2403,LK16DDO,Yiewsley High Street,2018-11-08 20:04:24+00:00,West Drayton Station,2018-11-08 20:05:54+00:00,420,yes,Evening,bus,12.41,0.83,0.88,10.01,no,yes,-0.5
+3276,LK58KHU,Ferrers Avenue,2018-11-08 21:18:09+00:00,West Drayton Station,2018-11-08 21:19:02+00:00,405,no,Night,bus,8.82,0.84,0.47,10.01,no,yes,-1.1166666666666667
+2582,LK16DDX,Yiewsley High Street,2018-11-09 11:38:37+00:00,West Drayton Station,2018-11-09 11:40:43+00:00,420,no,Morning,bus,12.43,0.85,0.81,9.95,no,yes,0.1
+2518,LK16DDU,Ferrers Avenue,2018-11-09 12:59:42+00:00,West Drayton Station,2018-11-09 13:01:22+00:00,405,no,Morning,bus,12.29,0.85,0.92,10.01,no,yes,-0.3333333333333333
+1905,LK08FNE,Yiewsley High Street,2018-11-09 13:50:48+00:00,West Drayton Station,2018-11-09 13:52:44+00:00,420,no,Afternoon,bus,13.42,0.69,0.62,10.01,no,yes,-0.06666666666666667
+1934,LK08FNE,Ferrers Avenue,2018-11-09 14:49:49+00:00,West Drayton Station,2018-11-09 14:51:39+00:00,405,no,Afternoon,bus,12.87,0.68,0.67,10.01,no,yes,-0.16666666666666666
+2377,LK16DDO,Ferrers Avenue,2018-11-09 15:51:44+00:00,West Drayton Station,2018-11-09 15:53:39+00:00,405,no,Afternoon,bus,12.09,0.71,0.57,10.01,no,yes,-0.08333333333333333
+2043,LK16DDJ,Ferrers Avenue,2018-11-09 16:49:04+00:00,West Drayton Station,2018-11-09 16:51:21+00:00,405,yes,Afternoon,bus,11.99,0.71,0.59,10.01,no,yes,0.2833333333333333
+4502,YX10BFM,Yiewsley High Street,2018-11-09 18:25:13+00:00,West Drayton Station,2018-11-09 18:27:08+00:00,420,yes,Evening,bus,11.97,0.72,0.56,9.98,no,yes,-0.08333333333333333
+3566,SN09CFY,Yiewsley High Street,2018-11-09 19:31:27+00:00,West Drayton Station,2018-11-09 19:33:14+00:00,420,no,Evening,bus,11.46,0.81,0.73,9.75,no,yes,-0.21666666666666667
+3595,SN09CFY,Ferrers Avenue,2018-11-09 20:22:33+00:00,West Drayton Station,2018-11-09 20:24:04+00:00,405,no,Evening,bus,10.98,0.87,0.75,9.37,no,yes,-0.48333333333333334
+4125,YX10BFE,Yiewsley High Street,2018-11-09 23:09:46+00:00,West Drayton Station,2018-11-09 23:11:02+00:00,420,no,Night,bus,11.08,0.93,0.89,6.16,no,no,-0.7333333333333333
+2802,LK16DDZ,Ferrers Avenue,2018-11-09 23:41:54+00:00,West Drayton Station,2018-11-09 23:43:35+00:00,405,no,Night,bus,11.08,0.93,0.87,7.07,no,yes,-0.31666666666666665
+3155,LK16DFA,Yiewsley High Street,2018-11-10 12:37:36+00:00,West Drayton Station,2018-11-10 12:40:41+00:00,420,no,Morning,bus,13.6,0.77,0.57,10.01,yes,yes,1.0833333333333333
+3799,SN09CGK,Yiewsley High Street,2018-11-10 13:29:16+00:00,West Drayton Station,2018-11-10 13:31:29+00:00,420,no,Afternoon,bus,13.38,0.76,0.89,9.9,yes,yes,0.21666666666666667
+1718,LK08FND,Ferrers Avenue,2018-11-10 14:34:19+00:00,West Drayton Station,2018-11-10 14:36:20+00:00,405,no,Afternoon,bus,11.68,0.84,0.67,9.93,yes,yes,0.016666666666666666
+1382,LK08FLG,Ferrers Avenue,2018-11-10 15:24:25+00:00,West Drayton Station,2018-11-10 15:25:31+00:00,405,no,Afternoon,bus,10.6,0.89,0.71,10.01,yes,yes,-0.9
+3122,LK16DFA,Ferrers Avenue,2018-11-10 17:32:40+00:00,West Drayton Station,2018-11-10 17:33:43+00:00,405,no,Evening,bus,10.13,0.92,0.78,8.34,yes,yes,-0.95
+2498,LK16DDU,Ferrers Avenue,2018-11-10 18:34:52+00:00,West Drayton Station,2018-11-10 18:36:32+00:00,405,no,Evening,bus,10.03,0.93,0.77,8.35,yes,no,-0.3333333333333333
+932,LK08FLD,Ferrers Avenue,2018-11-10 20:00:08+00:00,West Drayton Station,2018-11-10 20:01:07+00:00,405,no,Evening,bus,10.01,0.93,0.6,9.01,yes,no,-1.0166666666666666
+1832,LK08FND,Ferrers Avenue,2018-11-10 20:58:18+00:00,West Drayton Station,2018-11-10 20:59:16+00:00,405,no,Night,bus,10.03,0.93,0.73,9.64,yes,no,-1.0333333333333334
+4181,YX10BFF,Yiewsley High Street,2018-11-10 22:06:58+00:00,West Drayton Station,2018-11-10 22:08:21+00:00,420,no,Night,bus,10.07,0.93,0.89,8.35,yes,no,-0.6166666666666667
+4609,YX10BFM,Ferrers Avenue,2018-11-10 23:19:35+00:00,West Drayton Station,2018-11-10 23:20:43+00:00,405,no,Night,bus,9.99,0.93,0.75,8.63,yes,yes,-0.8666666666666667
+1873,LK08FND,Ferrers Avenue,2018-11-11 00:14:55+00:00,West Drayton Station,2018-11-11 00:16:30+00:00,405,no,Night,bus,9.98,0.93,0.74,8.32,yes,yes,-0.4166666666666667
+842,LK08FLD,Ferrers Avenue,2018-11-11 13:18:08+00:00,West Drayton Station,2018-11-11 13:19:20+00:00,405,no,Afternoon,bus,13.28,0.66,0.34,10.01,yes,yes,-0.8
+4246,YX10BFK,Ferrers Avenue,2018-11-11 14:21:07+00:00,West Drayton Station,2018-11-11 14:22:23+00:00,405,no,Afternoon,bus,12.84,0.67,0.89,10.01,yes,yes,-0.7333333333333333
+1209,LK08FLE,Ferrers Avenue,2018-11-11 15:01:34+00:00,West Drayton Station,2018-11-11 15:02:58+00:00,405,no,Afternoon,bus,12.82,0.67,0.23,10.01,yes,yes,-0.6
+2549,LK16DDX,Ferrers Avenue,2018-11-11 16:03:11+00:00,West Drayton Station,2018-11-11 16:04:39+00:00,405,no,Afternoon,bus,11.76,0.73,0.19,10.01,yes,yes,-0.5333333333333333
+1163,LK08FLE,Ferrers Avenue,2018-11-11 16:59:46+00:00,West Drayton Station,2018-11-11 17:00:24+00:00,405,no,Afternoon,bus,10.78,0.78,0.19,10.01,yes,yes,-1.3666666666666667
+4304,YX10BFK,Yiewsley High Street,2018-11-11 19:28:46+00:00,West Drayton Station,2018-11-11 19:30:44+00:00,420,no,Evening,bus,9.49,0.81,0.89,10.01,yes,no,-0.03333333333333333
+1102,LK08FLD,Ferrers Avenue,2018-11-11 20:53:47+00:00,West Drayton Station,2018-11-11 20:54:41+00:00,405,no,Night,bus,9.17,0.86,0.19,10.01,yes,yes,-1.1
+3296,LK65EAA,Ferrers Avenue,2018-11-11 21:36:24+00:00,West Drayton Station,2018-11-11 21:37:20+00:00,405,no,Night,bus,9.23,0.86,0.32,10.01,yes,yes,-1.0666666666666667
+3963,YX10BFA,Ferrers Avenue,2018-11-11 22:20:51+00:00,West Drayton Station,2018-11-11 22:21:35+00:00,405,no,Night,bus,9.28,0.88,0.89,10.01,yes,yes,-1.2666666666666666
+1072,LK08FLD,Yiewsley High Street,2018-11-11 23:31:50+00:00,West Drayton Station,2018-11-11 23:33:18+00:00,420,no,Night,bus,9.71,0.89,0.67,10.01,yes,yes,-0.5333333333333333
+3328,LK65EAA,Yiewsley High Street,2018-11-12 00:07:18+00:00,West Drayton Station,2018-11-12 00:07:45+00:00,420,no,Night,bus,10.02,0.87,0.54,10.01,yes,yes,-1.55
+3204,LK16DFC,Ferrers Avenue,2018-11-12 09:06:48+00:00,West Drayton Station,2018-11-12 09:08:32+00:00,405,no,Morning,bus,10.64,0.94,0.38,10.01,no,no,-0.26666666666666666
+3422,LK65EAM,Yiewsley High Street,2018-11-12 10:01:37+00:00,West Drayton Station,2018-11-12 10:04:01+00:00,420,no,Morning,bus,11.12,0.83,0.34,10.01,no,no,0.4
+2929,LK16DEU,Yiewsley High Street,2018-11-12 10:50:04+00:00,West Drayton Station,2018-11-12 10:51:26+00:00,420,no,Morning,bus,12.59,0.79,0.31,10.01,no,yes,-0.6333333333333333
+4092,YX10BFE,Yiewsley High Street,2018-11-12 11:39:43+00:00,West Drayton Station,2018-11-12 11:41:40+00:00,420,no,Morning,bus,13.58,0.77,0.89,10.01,no,no,-0.05
+2172,LK16DDL,Yiewsley High Street,2018-11-12 12:28:10+00:00,West Drayton Station,2018-11-12 12:29:33+00:00,420,no,Afternoon,bus,13.94,0.74,0.5,10.01,no,yes,-0.6166666666666667
+2138,LK16DDL,Yiewsley High Street,2018-11-12 14:39:25+00:00,West Drayton Station,2018-11-12 14:41:24+00:00,420,no,Afternoon,bus,13.07,0.73,0.35,10.01,no,no,-0.016666666666666666
+1782,LK08FND,Yiewsley High Street,2018-11-12 15:38:01+00:00,West Drayton Station,2018-11-12 15:40:27+00:00,420,no,Afternoon,bus,12.36,0.75,0.31,10.01,no,no,0.43333333333333335
+3627,SN09CFY,Ferrers Avenue,2018-11-12 18:39:36+00:00,West Drayton Station,2018-11-12 18:41:43+00:00,405,yes,Evening,bus,10.95,0.82,0.23,10.01,no,yes,0.11666666666666667
+4216,YX10BFF,Yiewsley High Street,2018-11-12 21:13:36+00:00,West Drayton Station,2018-11-12 21:15:13+00:00,420,yes,Night,bus,9.98,0.87,0.89,10.01,no,yes,-0.38333333333333336
+2240,LK16DDN,Yiewsley High Street,2018-11-13 13:53:05+00:00,West Drayton Station,2018-11-13 13:54:11+00:00,420,yes,Afternoon,bus,13.13,0.66,0.44,10.01,no,yes,-0.9
+3832,YX09FLB,Ferrers Avenue,2018-11-13 16:24:04+00:00,West Drayton Station,2018-11-13 16:26:14+00:00,405,yes,Afternoon,bus,11.56,0.71,0.89,10.01,no,yes,0.16666666666666666
+3866,YX09FLB,Yiewsley High Street,2018-11-13 17:35:50+00:00,West Drayton Station,2018-11-13 17:37:44+00:00,420,no,Evening,bus,10.87,0.78,0.89,10.01,no,no,-0.1
+3767,SN09CGG,Yiewsley High Street,2018-11-13 18:32:30+00:00,West Drayton Station,2018-11-13 18:34:36+00:00,420,yes,Evening,bus,10.88,0.82,0.89,10.01,no,yes,0.1
+4837,YX58DUA,Yiewsley High Street,2018-11-13 19:26:52+00:00,West Drayton Station,2018-11-13 19:28:16+00:00,420,no,Evening,bus,10.66,0.84,0.49,10.01,no,yes,-0.6
+1515,LK08FLZ,Ferrers Avenue,2018-11-13 23:02:09+00:00,West Drayton Station,2018-11-13 23:03:29+00:00,405,no,Night,bus,10.1,0.88,0.43,10.01,no,yes,-0.6666666666666666
+820,LK08FLD,Ferrers Avenue,2018-11-14 15:45:28+00:00,West Drayton Station,2018-11-14 15:46:28+00:00,405,no,Afternoon,bus,13.13,0.7,0.75,10.01,no,yes,-1.0
+2698,LK16DDZ,Ferrers Avenue,2018-11-14 16:55:36+00:00,West Drayton Station,2018-11-14 16:57:37+00:00,405,no,Afternoon,bus,11.1,0.78,0.23,10.01,no,yes,0.016666666666666666
+1493,LK08FLZ,Yiewsley High Street,2018-11-14 18:55:04+00:00,West Drayton Station,2018-11-14 18:57:08+00:00,420,yes,Evening,bus,9.96,0.88,0.27,10.01,no,yes,0.06666666666666667
+1544,LK08FMV,Yiewsley High Street,2018-11-14 19:46:33+00:00,West Drayton Station,2018-11-14 19:48:24+00:00,420,no,Evening,bus,10.14,0.89,0.63,9.75,no,yes,-0.15
+649,LK08FKV,Yiewsley High Street,2018-11-14 20:25:53+00:00,West Drayton Station,2018-11-14 20:27:35+00:00,420,no,Night,bus,9.93,0.91,0.54,8.82,no,yes,-0.3
+1578,LK08FMX,Yiewsley High Street,2018-11-14 21:10:55+00:00,West Drayton Station,2018-11-14 21:12:20+00:00,420,no,Night,bus,9.47,0.93,0.38,7.31,no,yes,-0.5833333333333334
+1605,LK08FMX,Ferrers Avenue,2018-11-14 21:59:58+00:00,West Drayton Station,2018-11-14 22:01:12+00:00,405,no,Night,bus,8.94,0.93,0.56,5.49,no,yes,-0.7666666666666667
+2612,LK16DDY,Ferrers Avenue,2018-11-14 23:13:53+00:00,West Drayton Station,2018-11-14 23:15:03+00:00,405,no,Night,bus,10.08,0.95,0.77,3.8,no,no,-0.8333333333333334
+2673,LK16DDY,Yiewsley High Street,2018-11-15 00:09:43+00:00,West Drayton Station,2018-11-15 00:11:30+00:00,420,no,Night,bus,10.32,0.99,0.96,4.02,no,yes,-0.21666666666666667
+3496,LK65EAP,Yiewsley High Street,2018-11-15 10:37:35+00:00,West Drayton Station,2018-11-15 10:39:45+00:00,420,no,Morning,bus,13.48,0.87,0.86,9.5,no,yes,0.16666666666666666
+1237,LK08FLE,Ferrers Avenue,2018-11-15 11:15:41+00:00,West Drayton Station,2018-11-15 11:17:03+00:00,405,no,Morning,bus,13.77,0.87,0.89,9.11,no,no,-0.6333333333333333
+3456,LK65EAP,Yiewsley High Street,2018-11-15 12:38:02+00:00,West Drayton Station,2018-11-15 12:40:00+00:00,420,no,Afternoon,bus,14.02,0.88,0.94,8.27,no,no,-0.03333333333333333
+3392,LK65EAM,Yiewsley High Street,2018-11-15 15:57:57+00:00,West Drayton Station,2018-11-15 16:00:31+00:00,420,no,Afternoon,bus,13.81,0.89,0.67,8.55,no,no,0.5666666666666667
+3690,SN09CGF,Ferrers Avenue,2018-11-15 16:35:17+00:00,West Drayton Station,2018-11-15 16:37:02+00:00,405,yes,Afternoon,bus,13.34,0.91,0.89,8.21,no,yes,-0.25
+3933,YX10BFA,Ferrers Avenue,2018-11-15 18:12:19+00:00,West Drayton Station,2018-11-15 18:14:00+00:00,405,yes,Evening,bus,12.62,0.91,0.89,6.68,no,yes,-0.31666666666666665
+1965,LK09EKU,Yiewsley High Street,2018-11-15 19:08:07+00:00,West Drayton Station,2018-11-15 19:10:24+00:00,420,no,Evening,bus,12.03,0.93,0.9,5.36,no,yes,0.2833333333333333
+2074,LK16DDJ,Ferrers Avenue,2018-11-15 21:38:05+00:00,West Drayton Station,2018-11-15 21:39:06+00:00,405,no,Night,bus,11.54,0.95,1.0,3.59,no,yes,-0.9833333333333333
+1268,LK08FLF,Yiewsley High Street,2018-11-16 12:51:32+00:00,West Drayton Station,2018-11-16 12:53:08+00:00,420,no,Afternoon,bus,10.21,0.98,0.99,4.92,no,yes,-0.4
+2103,LK16DDL,Ferrers Avenue,2018-11-16 13:34:02+00:00,West Drayton Station,2018-11-16 13:35:07+00:00,405,no,Afternoon,bus,10.1,0.96,0.95,4.65,no,no,-0.9166666666666666
+4143,YX10BFF,Yiewsley High Street,2018-11-17 14:51:12+00:00,West Drayton Station,2018-11-17 14:52:49+00:00,420,no,Afternoon,bus,11.01,0.68,0.89,10.01,yes,yes,-0.38333333333333336
+2010,LK16DDJ,Ferrers Avenue,2018-11-17 17:30:51+00:00,West Drayton Station,2018-11-17 17:30:46+00:00,405,no,Evening,bus,4.57,0.89,0.69,10.01,yes,yes,-2.0833333333333335
+900,LK08FLD,Ferrers Avenue,2018-11-17 19:16:05+00:00,West Drayton Station,2018-11-17 19:17:00+00:00,405,no,Evening,bus,11.99,0.94,0.85,8.42,yes,no,-1.0833333333333333
+596,LK08FKV,Yiewsley High Street,2018-11-17 20:11:05+00:00,West Drayton Station,2018-11-17 20:12:42+00:00,420,no,Night,bus,8.92,0.81,0.46,10.01,yes,yes,-0.38333333333333336
+624,LK08FKV,Ferrers Avenue,2018-11-17 20:55:03+00:00,West Drayton Station,2018-11-17 20:56:16+00:00,405,no,Evening,bus,6.95,0.8,0.44,10.01,yes,yes,-0.7833333333333333
+2963,LK16DEU,Yiewsley High Street,2018-11-17 21:32:39+00:00,West Drayton Station,2018-11-17 21:33:40+00:00,420,no,Night,bus,7.27,0.71,0.42,10.01,yes,yes,-0.9833333333333333
+4437,YX10BFM,Yiewsley High Street,2018-11-18 15:08:51+00:00,West Drayton Station,2018-11-18 15:10:31+00:00,420,no,Afternoon,bus,12.18,0.89,0.75,10.01,yes,no,-0.3333333333333333
+3028,LK16DFA,Yiewsley High Street,2018-11-18 16:26:10+00:00,West Drayton Station,2018-11-18 16:27:55+00:00,420,no,Afternoon,bus,12.56,0.81,0.45,10.01,yes,yes,-0.25
+787,LK08FKW,Yiewsley High Street,2018-11-18 18:49:09+00:00,West Drayton Station,2018-11-18 18:50:45+00:00,420,no,Evening,bus,8.42,0.97,0.91,5.99,yes,no,-0.4
+4468,YX10BFM,Yiewsley High Street,2018-11-18 19:04:34+00:00,West Drayton Station,2018-11-18 19:06:12+00:00,420,no,Evening,bus,10.57,0.89,0.72,10.01,yes,no,-0.36666666666666664
+4567,YX10BFM,Yiewsley High Street,2018-11-18 20:51:33+00:00,West Drayton Station,2018-11-18 20:53:01+00:00,420,no,Night,bus,7.75,0.92,0.89,10.01,yes,yes,-0.5333333333333333
+4535,YX10BFM,Ferrers Avenue,2018-11-18 21:38:07+00:00,West Drayton Station,2018-11-18 21:39:18+00:00,405,no,Night,bus,7.52,0.91,0.8,10.01,yes,yes,-0.8166666666666667
+4675,YX10BFN,Ferrers Avenue,2018-11-19 11:31:14+00:00,West Drayton Station,2018-11-19 11:32:04+00:00,405,no,Morning,bus,7.64,0.77,0.73,10.01,no,yes,-1.1666666666666667
+5164,LK16DEU,Ferrers Avenue,2018-11-19 14:01:11+00:00,West Drayton Station,2018-11-19 14:01:40+00:00,405,no,Afternoon,bus,8.08,0.72,0.48,10.01,no,yes,-1.5166666666666666
+2205,LK16DDN,Yiewsley High Street,2018-11-19 15:49:32+00:00,West Drayton Station,2018-11-19 15:51:21+00:00,420,no,Afternoon,bus,7.14,0.75,0.34,10.01,no,no,-0.18333333333333332
+4278,YX10BFK,Yiewsley High Street,2018-11-19 16:49:07+00:00,West Drayton Station,2018-11-19 16:51:46+00:00,420,yes,Afternoon,bus,6.76,0.77,0.89,10.01,no,yes,0.65
+996,LK08FLD,Ferrers Avenue,2018-11-19 17:38:02+00:00,West Drayton Station,2018-11-19 17:39:13+00:00,405,yes,Evening,bus,6.19,0.8,0.57,9.85,no,no,-0.8166666666666667
+1025,LK08FLD,Yiewsley High Street,2018-11-19 18:45:03+00:00,West Drayton Station,2018-11-19 18:47:07+00:00,420,yes,Evening,bus,5.36,0.85,0.66,9.95,no,yes,0.06666666666666667
+965,LK08FLD,Ferrers Avenue,2018-11-19 19:44:41+00:00,West Drayton Station,2018-11-19 19:45:49+00:00,405,no,Evening,bus,5.09,0.87,0.69,9.85,no,yes,-0.8666666666666667
+2897,LK16DEU,Ferrers Avenue,2018-11-21 12:27:07+00:00,West Drayton Station,2018-11-21 12:27:57+00:00,405,no,Afternoon,bus,7.32,0.7,0.43,10.01,no,yes,-1.1666666666666667
+1752,LK08FND,Yiewsley High Street,2018-11-21 13:51:39+00:00,West Drayton Station,2018-11-21 13:53:27+00:00,420,no,Afternoon,bus,7.04,0.66,0.46,10.01,no,no,-0.2
+1801,LK08FND,Ferrers Avenue,2018-11-21 14:49:29+00:00,West Drayton Station,2018-11-21 14:50:30+00:00,405,no,Afternoon,bus,6.69,0.65,0.64,10.01,no,yes,-0.9833333333333333
+3734,SN09CGG,Yiewsley High Street,2018-11-21 16:37:57+00:00,West Drayton Station,2018-11-21 16:40:32+00:00,420,yes,Afternoon,bus,5.19,0.73,0.89,10.01,no,yes,0.5833333333333334
+2464,LK16DDU,Yiewsley High Street,2018-11-21 20:56:23+00:00,West Drayton Station,2018-11-21 20:57:58+00:00,420,no,Night,bus,2.03,0.87,0.66,8.08,no,yes,-0.4166666666666667
+2271,LK16DDN,Yiewsley High Street,2018-11-22 12:18:51+00:00,West Drayton Station,2018-11-22 12:20:34+00:00,420,no,Morning,bus,4.63,0.89,0.7,3.98,no,no,-0.2833333333333333
+2768,LK16DDZ,Yiewsley High Street,2018-11-22 14:38:52+00:00,West Drayton Station,2018-11-22 14:40:25+00:00,420,no,Afternoon,bus,5.66,0.88,0.82,4.31,no,yes,-0.45
+707,LK08FKW,Ferrers Avenue,2018-11-22 16:01:34+00:00,West Drayton Station,2018-11-22 16:02:07+00:00,405,no,Afternoon,bus,4.83,0.92,0.78,3.83,no,no,-1.45
+4334,YX10BFL,Yiewsley High Street,2018-11-22 19:55:58+00:00,West Drayton Station,2018-11-22 19:57:54+00:00,420,no,Evening,bus,4.65,0.89,0.89,3.56,no,yes,-0.06666666666666667
+3356,LK65EAF,Yiewsley High Street,2018-11-23 12:30:35+00:00,West Drayton Station,2018-11-23 12:32:31+00:00,420,no,Afternoon,bus,7.86,0.93,0.97,3.98,no,no,-0.06666666666666667
+756,LK08FKW,Yiewsley High Street,2018-11-23 13:30:48+00:00,West Drayton Station,2018-11-23 13:33:05+00:00,420,no,Afternoon,bus,7.97,0.93,0.94,4.38,no,yes,0.2833333333333333
+1132,LK08FLD,Ferrers Avenue,2018-11-23 20:40:47+00:00,West Drayton Station,2018-11-23 20:41:24+00:00,405,no,Night,bus,7.62,0.92,0.84,4.99,no,yes,-1.3833333333333333
+4398,YX10BFL,Ferrers Avenue,2018-11-23 21:37:47+00:00,West Drayton Station,2018-11-23 21:38:19+00:00,405,no,Night,bus,7.75,0.92,0.89,4.75,no,yes,-1.4666666666666666
+4032,YX10BFE,Ferrers Avenue,2018-11-24 12:45:10+00:00,West Drayton Station,2018-11-24 12:46:20+00:00,405,no,Afternoon,bus,8.74,0.86,0.89,7.5,yes,no,-0.8333333333333334
+4001,YX10BFE,Ferrers Avenue,2018-11-24 16:41:52+00:00,West Drayton Station,2018-11-24 16:42:48+00:00,405,no,Afternoon,bus,8.01,0.83,0.89,9.24,yes,yes,-1.0666666666666667
+2343,LK16DDN,Ferrers Avenue,2018-11-24 20:55:35+00:00,West Drayton Station,2018-11-24 20:55:55+00:00,405,no,Night,bus,7.71,0.79,0.97,9.66,yes,yes,-1.6666666666666667
+2303,LK16DDN,Yiewsley High Street,2018-11-24 21:49:08+00:00,West Drayton Station,2018-11-24 21:50:39+00:00,420,no,Night,bus,7.71,0.78,0.97,9.4,yes,yes,-0.48333333333333334
+2429,LK16DDU,Yiewsley High Street,2018-11-25 12:27:13+00:00,West Drayton Station,2018-11-25 12:28:47+00:00,420,no,Afternoon,bus,7.92,0.79,0.7,9.58,yes,yes,-0.43333333333333335
+4870,YX58DUH,Yiewsley High Street,2018-11-25 17:11:47+00:00,West Drayton Station,2018-11-25 17:13:33+00:00,420,no,Evening,bus,7.16,0.79,0.85,10.01,yes,yes,-0.23333333333333334
+4356,YX10BFL,Ferrers Avenue,2018-11-25 20:38:36+00:00,West Drayton Station,2018-11-25 20:39:12+00:00,405,no,Night,bus,6.23,0.84,0.89,10.01,yes,yes,-1.4
+681,LK08FKV,Yiewsley High Street,2018-11-26 12:49:33+00:00,West Drayton Station,2018-11-26 12:50:50+00:00,420,no,Afternoon,bus,7.73,0.78,0.75,10.01,no,yes,-0.7166666666666667
+1653,LK08FMY,Ferrers Avenue,2018-11-26 17:05:21+00:00,West Drayton Station,2018-11-26 17:06:15+00:00,405,yes,Evening,bus,6.79,0.83,0.75,10.01,no,yes,-1.1
+1406,LK08FLV,Ferrers Avenue,2018-11-26 21:18:45+00:00,West Drayton Station,2018-11-26 21:19:30+00:00,405,no,Night,bus,4.05,0.92,0.51,8.18,no,yes,-1.25
+1686,LK08FMY,Yiewsley High Street,2018-11-26 22:34:55+00:00,West Drayton Station,2018-11-26 22:36:47+00:00,420,no,Night,bus,3.93,0.93,0.7,6.1,no,yes,-0.13333333333333333
+1450,LK08FLW,Ferrers Avenue,2018-11-27 11:49:58+00:00,West Drayton Station,2018-11-27 11:51:05+00:00,405,no,Morning,bus,5.14,0.92,0.64,7.76,no,yes,-0.8833333333333333
+868,LK08FLD,Ferrers Avenue,2018-11-27 16:43:27+00:00,West Drayton Station,2018-11-27 16:44:49+00:00,405,yes,Afternoon,bus,8.36,0.96,0.89,6.68,no,no,-0.6333333333333333
+1433,LK08FLW,Yiewsley High Street,2018-11-27 18:04:57+00:00,West Drayton Station,2018-11-27 18:06:14+00:00,420,yes,Evening,bus,9.32,0.93,0.89,6.6,no,yes,-0.7166666666666667
+4804,YX10BFO,Yiewsley High Street,2018-11-27 20:55:07+00:00,West Drayton Station,2018-11-27 20:56:29+00:00,420,no,Night,bus,9.96,0.93,0.76,10.01,no,yes,-0.6333333333333333
+3224,LK58KHL,Ferrers Avenue,2018-11-30 12:02:18+00:00,West Drayton Station,2018-11-30 12:03:49+00:00,405,no,Afternoon,bus,11.06,0.74,0.2,10.01,no,yes,-0.48333333333333334

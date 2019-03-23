@@ -17,9 +17,14 @@ data['diff'] = (data['arrival_time_at_next_Stop']-data['time_at_origin'])/np.tim
 
 data.sort_values(by='time_at_origin', inplace=True)
 
-data = data[data['next_stop'] == "Brunel University"]
+data = data[data['next_stop'] == "Eastcote Underground Station"]
 
-data['status'] = ((data['diff']) - 60.0)/60.0
+if np.where(data['origin'] == 'Rayners Lane Underground Station'):
+    data['status'] = ((data['diff']) - 180.0) / 60.0
+if np.where(data['origin'] == 'Ruislip Manor Underground Station'):
+    data['status'] = ((data['diff']) - 120.0) / 60.0
+if np.where(data['origin'] == 'West Harrow Underground Station'):
+    data['status'] = ((data['diff']) - 300.0) / 60.0
 
 data.drop('diff', axis=1, inplace=True)
 
@@ -32,5 +37,7 @@ data.drop('diff', axis=1, inplace=True)
 #plt.show()
 
 print(data.status)
+
+data.to_csv("../Dataset/stops/eastcote.csv")
 
 

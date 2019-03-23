@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 
 sns.set()
 
-data = pd.read_csv('Dataset/Stops/data_brunel.csv', parse_dates=["time_at_origin"])
+data = pd.read_csv('Dataset/Stops/farringdon.csv', parse_dates=["time_at_origin"])
 
 data = data.set_index("time_at_origin")
 
@@ -65,7 +65,7 @@ def test_stationarity(timeseries):
     std = plt.plot(movingSTD, color='black', label='Rolling Std')
     plt.legend(loc='best')
     plt.title('Rolling Mean & Standard Deviation')
-    #plt.show(block=False)
+    plt.show(block=False)
 
     # Perform Dickey–Fuller test:
     print('Results of Dickey Fuller Test:')
@@ -102,8 +102,7 @@ plt.axhline(y=1.96 / np.sqrt(len(data_shift)), linestyle='--', color='gray')
 plt.title('Partial Autocorrelation Function')
 
 plt.tight_layout()
-# plt.show()
-plt.close()
+plt.show()
 
 # Test & Train split
 X = data_shift.values
@@ -124,14 +123,17 @@ for t in range(len(test)):
     obs = test[t]
     history.append(obs)
     print('predicted=%f, expected=%f' % (yhat, obs))
-error = mean_squared_error(test, predictions)
-print('Test MSE: %.3f' % error)
-
-rmse = np.sqrt(mean_squared_error(test, predictions))
-print('Test RMSE: %.3f' % rmse)
 
 # plot
 plt.plot(test)
 plt.plot(predictions, color='red')
 plt.legend(['test', 'prediction'])
 plt.show()
+
+error = mean_squared_error(test, predictions)
+print('Test MSE: %.3f' % error)
+
+rmse = np.sqrt(mean_squared_error(test, predictions))
+print('Test RMSE: %.3f' % rmse)
+
+

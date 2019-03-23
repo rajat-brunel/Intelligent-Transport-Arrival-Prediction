@@ -15,7 +15,7 @@ from keras.layers import Dropout
 sns.set()
 
 
-df = pd.read_csv('Dataset/Stops/data_brunel.csv', parse_dates=["time_at_origin"])
+df = pd.read_csv('Dataset/Stops/baker_st.csv', parse_dates=["time_at_origin"])
 
 df = df.set_index("time_at_origin")
 drop_col = ['vehicle_id', 'origin', 'next_stop', 'arrival_time_at_next_Stop', 'prediction_correct']
@@ -79,8 +79,9 @@ reframed.drop(reframed.columns[[10,11,12,13,14,15,16,17,18]], axis=1, inplace=Tr
 print(reframed.head())
 
 values = reframed.values
+length = len(values)
+n_train_time = int(length * 0.75)
 
-n_train_time = 88
 
 train = values[:n_train_time, :]
 test = values[n_train_time:, :]

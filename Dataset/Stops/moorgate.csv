@@ -1,0 +1,121 @@
+,vehicle_id,origin,time_at_origin,next_stop,arrival_time_at_next_Stop,distance,peak,time_of_day,mode,temp,humidity,cloudCover,visibility,weekend,prediction_correct,status
+336,421,Barbican Underground Station,2018-10-31 19:34:44+00:00,Moorgate Underground Station,2018-10-31 19:36:47+00:00,670,yes,Evening,tube,9.73,0.78,0.42,10.01,no,no,0.05
+568,473,Barbican Underground Station,2018-10-31 20:57:42+00:00,Moorgate Underground Station,2018-10-31 21:00:12+00:00,670,yes,Afternoon,tube,9.62,0.86,0.44,10.01,no,no,0.5
+1058,424,Barbican Underground Station,2018-11-16 18:30:00+00:00,Moorgate Underground Station,2018-11-16 18:31:59+00:00,670,yes,Evening,tube,9.29,0.98,0.95,2.2,no,no,-0.016666666666666666
+5612,435,Barbican Underground Station,2018-11-17 16:40:38+00:00,Moorgate Underground Station,2018-11-17 16:43:37+00:00,670,no,Afternoon,tube,8.91,0.79,0.19,10.01,yes,no,0.9833333333333333
+5616,435,Liverpool Street Underground Station,2018-11-17 16:54:07+00:00,Moorgate Underground Station,2018-11-17 16:56:08+00:00,400,no,Afternoon,tube,8.66,0.81,0.19,10.01,yes,yes,0.016666666666666666
+5809,436,Barbican Underground Station,2018-11-17 21:12:18+00:00,Moorgate Underground Station,2018-11-17 21:14:49+00:00,670,no,Night,tube,8.78,0.83,0.19,10.01,yes,no,0.5166666666666667
+5659,435,Barbican Underground Station,2018-11-17 23:24:40+00:00,Moorgate Underground Station,2018-11-17 23:26:40+00:00,670,no,Night,tube,6.79,0.66,0.58,10.01,yes,no,0.0
+5663,435,Liverpool Street Underground Station,2018-11-17 23:38:13+00:00,Moorgate Underground Station,2018-11-17 23:40:12+00:00,400,no,Night,tube,6.7,0.66,0.64,10.01,yes,no,-0.016666666666666666
+5998,440,Barbican Underground Station,2018-11-18 14:46:31+00:00,Moorgate Underground Station,2018-11-18 14:49:00+00:00,670,no,Afternoon,tube,12.03,0.94,0.88,8.14,yes,no,0.48333333333333334
+5338,433,Barbican Underground Station,2018-11-18 16:23:46+00:00,Moorgate Underground Station,2018-11-18 16:25:45+00:00,670,no,Afternoon,tube,11.2,0.63,0.76,10.01,yes,no,-0.016666666666666666
+5902,437,Barbican Underground Station,2018-11-18 19:09:52+00:00,Moorgate Underground Station,2018-11-18 19:11:53+00:00,670,no,Evening,tube,7.14,0.65,0.41,10.01,yes,no,0.016666666666666666
+5906,437,Liverpool Street Underground Station,2018-11-18 19:22:54+00:00,Moorgate Underground Station,2018-11-18 19:24:53+00:00,400,no,Evening,tube,7.16,0.65,0.42,10.01,yes,no,-0.016666666666666666
+5279,432,Barbican Underground Station,2018-11-19 11:45:48+00:00,Moorgate Underground Station,2018-11-19 11:47:48+00:00,670,no,Morning,tube,7.82,0.76,0.7,10.01,no,no,0.0
+5282,432,Aldgate Underground Station,2018-11-19 11:52:49+00:00,Moorgate Underground Station,2018-11-19 12:00:19+00:00,1040,no,Morning,tube,7.92,0.76,0.69,10.01,no,no,5.5
+5973,440,Barbican Underground Station,2018-11-19 17:02:05+00:00,Moorgate Underground Station,2018-11-19 17:04:05+00:00,670,yes,Evening,tube,6.55,0.79,0.48,9.99,no,no,0.0
+352,450,Barbican Underground Station,2018-11-19 18:00:48+00:00,Moorgate Underground Station,2018-11-19 18:02:47+00:00,670,yes,Afternoon,tube,5.59,0.83,0.66,9.58,no,no,-0.016666666666666666
+6150,442,Barbican Underground Station,2018-11-21 12:44:02+00:00,Moorgate Underground Station,2018-11-21 12:46:32+00:00,670,no,Afternoon,tube,7.22,0.69,0.45,10.01,no,no,0.5
+6154,442,Liverpool Street Underground Station,2018-11-21 12:59:05+00:00,Moorgate Underground Station,2018-11-21 13:01:06+00:00,400,no,Afternoon,tube,7.17,0.7,0.46,10.01,no,no,0.016666666666666666
+5571,435,Barbican Underground Station,2018-11-21 14:23:21+00:00,Moorgate Underground Station,2018-11-21 14:25:21+00:00,670,no,Afternoon,tube,6.78,0.67,0.56,10.01,no,no,0.0
+5575,435,Liverpool Street Underground Station,2018-11-21 14:38:20+00:00,Moorgate Underground Station,2018-11-21 14:40:21+00:00,400,no,Afternoon,tube,6.7,0.66,0.62,10.01,no,no,0.016666666666666666
+5951,437,Liverpool Street Underground Station,2018-11-21 17:14:51+00:00,Moorgate Underground Station,2018-11-21 17:16:52+00:00,400,yes,Evening,tube,4.58,0.79,0.46,10.01,no,no,0.016666666666666666
+5938,437,Liverpool Street Underground Station,2018-11-21 17:14:51+00:00,Moorgate Underground Station,2018-11-21 17:16:52+00:00,400,yes,Evening,tube,4.58,0.79,0.46,10.01,no,no,0.016666666666666666
+5395,433,Barbican Underground Station,2018-11-21 20:50:59+00:00,Moorgate Underground Station,2018-11-21 20:53:26+00:00,670,no,Night,tube,2.26,0.87,0.72,7.5,no,no,0.45
+5399,433,Liverpool Street Underground Station,2018-11-21 21:04:00+00:00,Moorgate Underground Station,2018-11-21 21:05:31+00:00,400,no,Night,tube,2.2,0.86,0.75,7.35,no,no,-0.48333333333333334
+5650,435,Barbican Underground Station,2018-11-22 12:10:03+00:00,Moorgate Underground Station,2018-11-22 12:12:05+00:00,670,no,Morning,tube,4.6,0.91,0.85,3.25,no,no,0.03333333333333333
+109,443,Barbican Underground Station,2018-11-22 12:53:41+00:00,Moorgate Underground Station,2018-11-22 12:55:40+00:00,670,no,Afternoon,tube,5.11,0.9,0.8,3.12,no,no,-0.016666666666666666
+113,443,Liverpool Street Underground Station,2018-11-22 13:10:44+00:00,Moorgate Underground Station,2018-11-22 13:12:13+00:00,400,no,Afternoon,tube,5.16,0.89,0.82,3.12,no,yes,-0.5166666666666667
+5307,433,Barbican Underground Station,2018-11-22 16:28:48+00:00,Moorgate Underground Station,2018-11-22 16:30:47+00:00,670,no,Afternoon,tube,5.08,0.92,0.91,3.38,no,no,-0.016666666666666666
+5470,434,Barbican Underground Station,2018-11-22 18:57:05+00:00,Moorgate Underground Station,2018-11-22 18:59:05+00:00,670,no,Afternoon,tube,4.79,0.92,0.76,3.15,no,yes,0.0
+5474,434,Liverpool Street Underground Station,2018-11-22 19:09:06+00:00,Moorgate Underground Station,2018-11-22 19:11:07+00:00,400,no,Afternoon,tube,4.76,0.92,0.75,3.25,no,yes,0.016666666666666666
+5118,432,Barbican Underground Station,2018-11-23 14:02:37+00:00,Moorgate Underground Station,2018-11-23 14:05:07+00:00,670,no,Afternoon,tube,7.95,0.93,0.95,4.6,no,no,0.5
+5842,436,Barbican Underground Station,2018-11-23 21:45:29+00:00,Moorgate Underground Station,2018-11-23 21:47:28+00:00,670,no,Night,tube,7.86,0.92,0.95,4.17,no,no,-0.016666666666666666
+5846,436,Liverpool Street Underground Station,2018-11-23 21:58:59+00:00,Moorgate Underground Station,2018-11-23 22:00:31+00:00,400,no,Night,tube,7.87,0.92,1.0,4.12,no,no,-0.4666666666666667
+2657,431,Barbican Underground Station,2018-11-24 13:54:09+00:00,Moorgate Underground Station,2018-11-24 13:56:08+00:00,670,no,Afternoon,tube,8.82,0.83,0.92,9.16,yes,no,-0.016666666666666666
+5220,432,Barbican Underground Station,2018-11-24 18:28:35+00:00,Moorgate Underground Station,2018-11-24 18:31:05+00:00,670,no,Afternoon,tube,7.61,0.84,0.9,9.67,yes,yes,0.5
+5861,436,Barbican Underground Station,2018-11-24 21:12:50+00:00,Moorgate Underground Station,2018-11-24 21:15:20+00:00,670,no,Night,tube,7.53,0.81,0.94,9.06,no,no,0.5
+5864,436,Aldgate Underground Station,2018-11-24 21:19:20+00:00,Moorgate Underground Station,2018-11-24 21:30:22+00:00,1040,no,Night,tube,7.57,0.81,0.93,8.96,no,no,9.033333333333333
+6086,441,Barbican Underground Station,2018-11-26 17:13:18+00:00,Moorgate Underground Station,2018-11-26 17:15:49+00:00,670,yes,Evening,tube,7.0,0.84,0.75,10.01,no,no,0.5166666666666667
+6090,441,Liverpool Street Underground Station,2018-11-26 17:27:51+00:00,Moorgate Underground Station,2018-11-26 17:29:22+00:00,400,yes,Evening,tube,6.99,0.84,0.75,10.01,no,no,-0.48333333333333334
+5346,406,Barbican Underground Station,2018-11-27 12:49:09+00:00,Moorgate Underground Station,2018-11-27 12:51:41+00:00,670,no,Afternoon,tube,6.16,0.91,0.67,6.74,no,yes,0.5333333333333333
+5350,406,Liverpool Street Underground Station,2018-11-27 13:03:14+00:00,Moorgate Underground Station,2018-11-27 13:05:13+00:00,400,no,Afternoon,tube,6.32,0.92,0.71,6.26,no,no,-0.016666666666666666
+6041,412,Barbican Underground Station,2018-11-27 16:47:01+00:00,Moorgate Underground Station,2018-11-27 16:49:01+00:00,670,yes,Afternoon,tube,8.33,0.92,0.85,8.0,no,no,0.0
+6045,412,Liverpool Street Underground Station,2018-11-27 16:58:03+00:00,Moorgate Underground Station,2018-11-27 17:00:02+00:00,400,yes,Afternoon,tube,8.44,0.93,0.85,7.89,no,yes,-0.016666666666666666
+5721,436,Barbican Underground Station,2018-11-28 14:31:23+00:00,Moorgate Underground Station,2018-11-28 14:33:53+00:00,670,no,Afternoon,tube,13.08,0.91,0.89,7.13,no,yes,0.5
+5237,432,Barbican Underground Station,2018-11-28 16:24:31+00:00,Moorgate Underground Station,2018-11-28 16:26:31+00:00,670,yes,Afternoon,tube,13.14,0.91,0.93,8.63,no,no,0.0
+5241,432,Liverpool Street Underground Station,2018-11-28 16:38:48+00:00,Moorgate Underground Station,2018-11-28 16:40:48+00:00,400,yes,Afternoon,tube,13.21,0.91,0.9,8.11,no,no,0.0
+4072,431,Barbican Underground Station,2018-11-28 18:55:49+00:00,Moorgate Underground Station,2018-11-28 18:58:51+00:00,670,yes,Evening,tube,13.28,0.92,0.89,9.9,no,yes,1.0333333333333334
+299,447,Barbican Underground Station,2018-11-28 22:41:05+00:00,Moorgate Underground Station,2018-11-28 22:43:35+00:00,670,no,Night,tube,13.06,0.85,0.75,9.74,no,no,0.5
+303,447,Liverpool Street Underground Station,2018-11-28 22:52:42+00:00,Moorgate Underground Station,2018-11-28 22:54:42+00:00,400,no,Night,tube,13.06,0.85,0.75,9.67,no,yes,0.0
+2950,431,Barbican Underground Station,2018-11-29 16:09:32+00:00,Moorgate Underground Station,2018-11-29 16:12:02+00:00,670,no,Afternoon,tube,11.69,0.76,0.61,10.01,no,no,0.5
+2954,431,Liverpool Street Underground Station,2018-11-29 16:24:12+00:00,Moorgate Underground Station,2018-11-29 16:26:10+00:00,400,no,Afternoon,tube,11.74,0.77,0.65,10.01,no,no,-0.03333333333333333
+6122,441,Barbican Underground Station,2018-11-30 12:38:45+00:00,Moorgate Underground Station,2018-11-30 12:41:18+00:00,670,no,Afternoon,tube,11.22,0.7,0.35,10.01,no,no,0.55
+6010,440,Barbican Underground Station,2018-11-30 17:06:11+00:00,Moorgate Underground Station,2018-11-30 17:08:39+00:00,670,yes,Afternoon,tube,9.23,0.72,0.51,10.01,no,yes,0.4666666666666667
+5423,433,Barbican Underground Station,2018-12-01 11:54:44+00:00,Moorgate Underground Station,2018-12-01 11:57:11+00:00,670,no,Morning,tube,10.98,0.93,0.95,6.21,yes,no,0.45
+5427,433,Liverpool Street Underground Station,2018-12-01 12:08:43+00:00,Moorgate Underground Station,2018-12-01 12:11:18+00:00,400,no,Morning,tube,11.12,0.93,0.92,5.95,yes,no,0.5833333333333334
+127,443,Barbican Underground Station,2018-12-01 21:55:25+00:00,Moorgate Underground Station,2018-12-01 21:57:26+00:00,670,no,Night,tube,11.94,0.83,0.84,10.01,yes,yes,0.016666666666666666
+131,443,Liverpool Street Underground Station,2018-12-01 22:10:02+00:00,Moorgate Underground Station,2018-12-01 22:11:33+00:00,400,no,Night,tube,11.83,0.84,0.83,10.01,yes,no,-0.48333333333333334
+1995,430,Barbican Underground Station,2018-12-01 22:48:35+00:00,Moorgate Underground Station,2018-12-01 22:51:05+00:00,670,no,Night,tube,11.51,0.89,0.79,10.01,yes,yes,0.5
+41,413,Barbican Underground Station,2018-12-02 14:03:30+00:00,Moorgate Underground Station,2018-12-02 14:05:29+00:00,670,no,Afternoon,tube,13.97,0.8,0.75,10.01,yes,no,-0.016666666666666666
+45,413,Liverpool Street Underground Station,2018-12-02 14:18:30+00:00,Moorgate Underground Station,2018-12-02 14:20:01+00:00,400,no,Afternoon,tube,12.16,0.95,0.87,7.26,yes,yes,-0.48333333333333334
+6076,441,Barbican Underground Station,2018-12-02 14:56:12+00:00,Moorgate Underground Station,2018-12-02 14:58:41+00:00,670,no,Afternoon,tube,13.98,0.83,0.76,10.01,yes,no,0.48333333333333334
+159,444,Barbican Underground Station,2018-12-02 15:12:13+00:00,Moorgate Underground Station,2018-12-02 15:15:12+00:00,670,no,Afternoon,tube,13.86,0.84,0.77,10.01,yes,no,0.9833333333333333
+312,450,Barbican Underground Station,2018-12-02 15:44:20+00:00,Moorgate Underground Station,2018-12-02 15:46:48+00:00,670,no,Afternoon,tube,13.65,0.84,0.8,10.01,yes,no,0.4666666666666667
+388,451,Barbican Underground Station,2018-12-02 15:52:19+00:00,Moorgate Underground Station,2018-12-02 15:54:50+00:00,670,no,Afternoon,tube,13.59,0.84,0.8,10.01,yes,no,0.5166666666666667
+316,450,Liverpool Street Underground Station,2018-12-02 15:57:50+00:00,Moorgate Underground Station,2018-12-02 15:59:50+00:00,400,no,Afternoon,tube,13.56,0.85,0.81,10.01,yes,no,0.0
+5189,404,Barbican Underground Station,2018-12-02 17:49:38+00:00,Moorgate Underground Station,2018-12-02 17:51:35+00:00,670,no,Evening,tube,13.88,0.87,0.93,10.01,yes,no,-0.05
+5193,404,Liverpool Street Underground Station,2018-12-02 18:03:33+00:00,Moorgate Underground Station,2018-12-02 18:05:09+00:00,400,no,Evening,tube,13.92,0.87,0.94,10.01,yes,no,-0.4
+5772,410,Barbican Underground Station,2018-12-02 18:48:46+00:00,Moorgate Underground Station,2018-12-02 18:50:45+00:00,670,no,Evening,tube,13.97,0.86,0.91,10.01,yes,no,-0.016666666666666666
+5776,410,Liverpool Street Underground Station,2018-12-02 19:03:19+00:00,Moorgate Underground Station,2018-12-02 19:05:18+00:00,400,no,Evening,tube,13.98,0.86,0.89,10.01,yes,yes,-0.016666666666666666
+5916,412,Barbican Underground Station,2018-12-03 13:51:29+00:00,Moorgate Underground Station,2018-12-03 13:53:57+00:00,670,no,Afternoon,tube,12.91,0.82,0.75,9.87,no,no,0.4666666666666667
+5920,412,Liverpool Street Underground Station,2018-12-03 14:05:31+00:00,Moorgate Underground Station,2018-12-03 14:07:29+00:00,400,no,Afternoon,tube,12.86,0.82,0.74,10.01,no,no,-0.03333333333333333
+5379,433,Barbican Underground Station,2018-12-03 14:10:01+00:00,Moorgate Underground Station,2018-12-03 14:12:31+00:00,670,no,Afternoon,tube,12.8,0.83,0.74,10.01,no,no,0.5
+5383,433,Liverpool Street Underground Station,2018-12-03 14:26:04+00:00,Moorgate Underground Station,2018-12-03 14:28:03+00:00,400,no,Afternoon,tube,12.54,0.84,0.72,10.01,no,no,-0.016666666666666666
+92,443,Barbican Underground Station,2018-12-03 17:26:39+00:00,Moorgate Underground Station,2018-12-03 17:29:09+00:00,670,yes,Evening,tube,9.27,0.81,0.52,10.01,no,no,0.5
+96,443,Liverpool Street Underground Station,2018-12-03 17:41:10+00:00,Moorgate Underground Station,2018-12-03 17:43:11+00:00,400,yes,Evening,tube,8.98,0.81,0.48,10.01,no,no,0.016666666666666666
+4694,432,Barbican Underground Station,2018-12-04 13:58:58+00:00,Moorgate Underground Station,2018-12-04 14:01:30+00:00,670,no,Afternoon,tube,8.08,0.75,0.19,10.01,no,no,0.5333333333333333
+4698,432,Liverpool Street Underground Station,2018-12-04 14:13:01+00:00,Moorgate Underground Station,2018-12-04 14:14:32+00:00,400,no,Afternoon,tube,8.0,0.76,0.19,10.01,no,no,-0.48333333333333334
+5758,436,Barbican Underground Station,2018-12-04 14:31:03+00:00,Moorgate Underground Station,2018-12-04 14:33:34+00:00,670,no,Afternoon,tube,7.8,0.77,0.19,10.01,no,no,0.5166666666666667
+5762,436,Liverpool Street Underground Station,2018-12-04 14:44:07+00:00,Moorgate Underground Station,2018-12-04 14:46:06+00:00,400,no,Afternoon,tube,7.68,0.77,0.19,10.01,no,no,-0.016666666666666666
+5782,436,Barbican Underground Station,2018-12-04 16:50:57+00:00,Moorgate Underground Station,2018-12-04 16:52:57+00:00,670,yes,Afternoon,tube,7.23,0.8,0.44,10.01,no,no,0.0
+180,413,Barbican Underground Station,2018-12-04 16:52:28+00:00,Moorgate Underground Station,2018-12-04 16:54:59+00:00,670,yes,Afternoon,tube,7.22,0.8,0.44,10.01,no,no,0.5166666666666667
+504,464,Barbican Underground Station,2018-12-04 18:23:43+00:00,Moorgate Underground Station,2018-12-04 18:26:46+00:00,670,yes,Evening,tube,7.09,0.81,0.44,10.01,no,no,1.05
+416,451,Barbican Underground Station,2018-12-04 18:40:49+00:00,Moorgate Underground Station,2018-12-04 18:42:48+00:00,670,yes,Evening,tube,7.19,0.8,0.44,10.01,no,no,-0.016666666666666666
+508,464,Liverpool Street Underground Station,2018-12-04 18:40:49+00:00,Moorgate Underground Station,2018-12-04 18:42:18+00:00,400,yes,Evening,tube,7.18,0.8,0.44,10.01,no,no,-0.5166666666666667
+420,451,Liverpool Street Underground Station,2018-12-04 18:51:51+00:00,Moorgate Underground Station,2018-12-04 18:53:53+00:00,400,yes,Evening,tube,7.25,0.8,0.44,10.01,no,no,0.03333333333333333
+5449,433,Barbican Underground Station,2018-12-04 20:46:08+00:00,Moorgate Underground Station,2018-12-04 20:48:38+00:00,670,yes,Night,tube,6.24,0.86,0.78,10.01,no,no,0.5
+5452,433,Aldgate Underground Station,2018-12-04 20:51:40+00:00,Moorgate Underground Station,2018-12-04 20:59:40+00:00,1040,yes,Night,tube,6.21,0.86,0.77,10.01,no,no,6.0
+542,472,Barbican Underground Station,2018-12-04 21:05:13+00:00,Moorgate Underground Station,2018-12-04 21:07:41+00:00,670,no,Night,tube,6.05,0.86,0.74,10.01,no,no,0.4666666666666667
+546,472,Liverpool Street Underground Station,2018-12-04 21:20:14+00:00,Moorgate Underground Station,2018-12-04 21:22:44+00:00,400,no,Night,tube,6.13,0.85,0.7,10.01,no,no,0.5
+362,450,Barbican Underground Station,2018-12-05 11:14:18+00:00,Moorgate Underground Station,2018-12-05 11:16:50+00:00,670,no,Morning,tube,12.33,0.93,0.84,8.27,no,no,0.5333333333333333
+436,451,Barbican Underground Station,2018-12-05 11:24:19+00:00,Moorgate Underground Station,2018-12-05 11:26:50+00:00,670,no,Morning,tube,12.38,0.93,0.83,8.63,no,no,0.5166666666666667
+365,450,Liverpool Street Underground Station,2018-12-05 11:29:21+00:00,Moorgate Underground Station,2018-12-05 11:31:20+00:00,400,no,Morning,tube,12.41,0.92,0.82,8.84,no,no,-0.016666666666666666
+439,451,Aldgate Underground Station,2018-12-05 11:30:21+00:00,Moorgate Underground Station,2018-12-05 11:41:23+00:00,1040,no,Morning,tube,12.46,0.92,0.81,9.19,no,no,9.033333333333333
+5,401,Barbican Underground Station,2018-12-05 14:17:22+00:00,Moorgate Underground Station,2018-12-05 14:19:57+00:00,670,no,Afternoon,tube,12.62,0.9,0.82,9.7,no,no,0.5833333333333334
+9,401,Liverpool Street Underground Station,2018-12-05 14:30:50+00:00,Moorgate Underground Station,2018-12-05 14:32:21+00:00,400,no,Afternoon,tube,12.41,0.91,0.82,9.48,no,no,-0.48333333333333334
+141,444,Barbican Underground Station,2018-12-05 15:13:59+00:00,Moorgate Underground Station,2018-12-05 15:16:29+00:00,670,no,Afternoon,tube,12.04,0.93,0.8,9.22,no,no,0.5
+145,444,Liverpool Street Underground Station,2018-12-05 15:29:02+00:00,Moorgate Underground Station,2018-12-05 15:30:32+00:00,400,no,Afternoon,tube,12.03,0.92,0.79,9.35,no,no,-0.5
+5251,432,Barbican Underground Station,2018-12-05 16:25:24+00:00,Moorgate Underground Station,2018-12-05 16:27:25+00:00,670,yes,Afternoon,tube,12.03,0.92,0.83,8.9,no,no,0.016666666666666666
+5255,432,Liverpool Street Underground Station,2018-12-05 16:35:58+00:00,Moorgate Underground Station,2018-12-05 16:37:57+00:00,400,yes,Afternoon,tube,12.03,0.92,0.86,8.61,no,no,-0.016666666666666666
+1359,426,Barbican Underground Station,2018-12-05 16:47:31+00:00,Moorgate Underground Station,2018-12-05 16:50:00+00:00,670,yes,Afternoon,tube,12.01,0.93,0.89,8.24,no,no,0.48333333333333334
+1363,426,Liverpool Street Underground Station,2018-12-05 16:59:32+00:00,Moorgate Underground Station,2018-12-05 17:01:33+00:00,400,yes,Afternoon,tube,12.01,0.93,0.91,8.0,no,no,0.016666666666666666
+4971,425,Barbican Underground Station,2018-12-05 18:14:08+00:00,Moorgate Underground Station,2018-12-05 18:16:41+00:00,670,yes,Evening,tube,12.11,0.94,0.87,8.96,no,no,0.55
+4975,425,Liverpool Street Underground Station,2018-12-05 18:30:12+00:00,Moorgate Underground Station,2018-12-05 18:32:42+00:00,400,yes,Evening,tube,12.19,0.94,0.88,9.27,no,no,0.5
+4903,404,Barbican Underground Station,2018-12-05 22:12:20+00:00,Moorgate Underground Station,2018-12-05 22:14:23+00:00,670,no,Night,tube,12.33,0.93,0.78,9.9,no,no,0.05
+5124,462,Barbican Underground Station,2018-12-05 22:21:23+00:00,Moorgate Underground Station,2018-12-05 22:23:53+00:00,670,no,Night,tube,12.28,0.93,0.8,9.91,no,no,0.5
+4906,404,Liverpool Street Underground Station,2018-12-05 22:28:22+00:00,Moorgate Underground Station,2018-12-05 22:29:53+00:00,400,no,Night,tube,12.24,0.93,0.81,9.91,no,no,-0.48333333333333334
+4939,407,Barbican Underground Station,2018-12-05 22:30:53+00:00,Moorgate Underground Station,2018-12-05 22:33:24+00:00,670,no,Night,tube,12.23,0.93,0.82,9.91,no,no,0.5166666666666667
+5128,462,Liverpool Street Underground Station,2018-12-05 22:37:54+00:00,Moorgate Underground Station,2018-12-05 22:40:24+00:00,400,no,Night,tube,12.19,0.93,0.83,9.93,no,no,0.5
+4943,407,Liverpool Street Underground Station,2018-12-05 22:44:55+00:00,Moorgate Underground Station,2018-12-05 22:46:25+00:00,400,no,Night,tube,12.16,0.93,0.84,9.93,no,no,-0.5
+4889,404,Barbican Underground Station,2018-12-06 12:18:05+00:00,Moorgate Underground Station,2018-12-06 12:20:35+00:00,670,no,Afternoon,tube,12.81,0.86,0.85,10.01,no,no,0.5
+4893,404,Liverpool Street Underground Station,2018-12-06 12:32:37+00:00,Moorgate Underground Station,2018-12-06 12:34:37+00:00,400,no,Afternoon,tube,12.81,0.87,0.87,10.01,no,no,0.0
+5047,437,Liverpool Street Underground Station,2018-12-06 12:38:07+00:00,Moorgate Underground Station,2018-12-06 12:40:08+00:00,400,no,Afternoon,tube,12.81,0.87,0.88,10.01,no,no,0.016666666666666666
+5084,447,Barbican Underground Station,2018-12-06 13:23:14+00:00,Moorgate Underground Station,2018-12-06 13:25:16+00:00,670,no,Afternoon,tube,12.84,0.86,0.81,10.01,no,yes,0.03333333333333333
+5088,447,Liverpool Street Underground Station,2018-12-06 13:37:46+00:00,Moorgate Underground Station,2018-12-06 13:39:47+00:00,400,no,Afternoon,tube,12.85,0.85,0.75,10.01,no,no,0.016666666666666666
+5017,433,Barbican Underground Station,2018-12-06 16:28:21+00:00,Moorgate Underground Station,2018-12-06 16:30:51+00:00,670,yes,Afternoon,tube,12.86,0.86,0.91,10.01,no,no,0.5
+5021,433,Liverpool Street Underground Station,2018-12-06 16:41:53+00:00,Moorgate Underground Station,2018-12-06 16:43:54+00:00,400,yes,Afternoon,tube,12.83,0.87,0.92,10.01,no,no,0.016666666666666666
+5001,432,Barbican Underground Station,2018-12-06 21:26:21+00:00,Moorgate Underground Station,2018-12-06 21:28:21+00:00,670,no,Night,tube,13.03,0.93,0.95,10.01,no,no,0.0
+5005,432,Liverpool Street Underground Station,2018-12-06 21:41:24+00:00,Moorgate Underground Station,2018-12-06 21:43:23+00:00,400,no,Night,tube,13.03,0.93,0.94,10.01,no,yes,-0.016666666666666666
+4925,405,Barbican Underground Station,2018-12-06 22:48:04+00:00,Moorgate Underground Station,2018-12-06 22:50:34+00:00,670,no,Night,tube,13.03,0.93,0.88,9.75,no,no,0.5
+4929,405,Liverpool Street Underground Station,2018-12-06 23:01:05+00:00,Moorgate Underground Station,2018-12-06 23:02:37+00:00,400,no,Night,tube,13.03,0.93,0.86,9.67,no,no,-0.4666666666666667
